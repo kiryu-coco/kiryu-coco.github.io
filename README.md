@@ -3,7 +3,7 @@
 - 2019/12/29 [【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】](https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO)
 	- 【クソダサ速報】天使Aさん 初配信をパワーポイントで行う
 	- N氏「一番恐ろしい先輩は誰ですか？」に対して「まつりかな(ピース)」
-	- (ホロライブ) 痛恨のスペリングミス
+	- (ホロライブ公式) 痛恨のスペリングミス
 	- 今日のお天気
 - 2019/12/30 [【#桐生ココ】あさココLIVEニュース！12/30【#ココここ】](https://www.youtube.com/watch?v=hj9RVNXrzKo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=2)
 	- 【事件】速報音で視聴者の耳を破壊
