@@ -24,6 +24,8 @@
 - 2020/01/01 [【#桐生ココ】あさココLIVEニュース！1/1【#ココここ】](https://www.youtube.com/watch?v=Trz-Ur8eRaI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=4)
 	- 【訃報】10万人達成ならず、夏色まつり氏犠牲に
 	- 【クソザコ速報】(角巻わため氏) 雑談放送中に4回の回線切断
+		- LIVE中継 「クソザコ回線ひつじ」こと角巻わため容疑者
+			- わためは悪く… (回線切断)
 	- 【クソザコ】(ココ氏) 初の雑談放送に8分遅刻
 	- 今日の天気
 - 2020/01/03 [【#桐生ココ】あさココLIVEニュース！1/3【#ココここ】](https://www.youtube.com/watch?v=uyd2Oi0RfXA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=5)
