@@ -11,6 +11,10 @@ footer {
   display: none;
 }
 
-section {
-  display: none;
+@media print, screen and (min-width: 961px) {
+    section {
+        float: none;
+        position: static;
+        width: auto
+    }
 }
