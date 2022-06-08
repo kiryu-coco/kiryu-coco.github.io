@@ -1,3 +1,5 @@
 theme: jekyll-theme-minimal
 title: kiryu-coco.github.io
-description: unofficial site
+description: asacoco live news (unofficial digest text)
+plugins:
+  - jekyll-target-blank
