@@ -219,7 +219,7 @@
 			- ピクルス
 	- 今日の天気
 		- 地球の気分はメンヘラ
-- 2020/01/15 [【#桐生ココ】あさココLIVEニュース！1/15【#ココここ】](https://www.youtube.com/watch?v=g0s8gtKpjaM)
+- 2020/01/15 [【#桐生ココ】あさココLIVEニュース！1/15【#ココここ】](https://www.youtube.com/watch?v=g0s8gtKpjaM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=15)
 	- 【NEW】(桐生ココ氏(3500)) 深夜に突然視聴者を便所扱い
 		- (マインクラフトであまりにも和風な家を作ってしまい、深夜に突然5分にも満たない生配信)
 		- 勝手に家を見せつける配信を始め勝手にスッキリして終了
