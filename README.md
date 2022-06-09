@@ -1,5 +1,6 @@
 # [Coco Ch. 桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w)
-## あさココLIVEニュース！ (非公式要約)
+## あさココLIVEニュース！ (非公式要約) 
+### [github](https://github.com/kiryu-coco/kiryu-coco.github.io)
 - 2019/12/29(日) [【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】](https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO)
 	- 【クソダサ速報】天使Aさん 初配信をパワーポイントで行う
 	- (「一番恐ろしい先輩は誰ですか？」に対して) N氏「まつりかな(ピース)」
