@@ -1,11 +1,11 @@
 # [Coco Ch. 桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w)
 ## あさココLIVEニュース！ (非公式要約)
-- 2019/12/29 [【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】](https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO)
+- 2019/12/29(日) [【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】](https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO)
 	- 【クソダサ速報】天使Aさん 初配信をパワーポイントで行う
 	- (「一番恐ろしい先輩は誰ですか？」に対して) N氏「まつりかな(ピース)」
 	- (ホロライブ公式) 痛恨のスペリングミス
 	- 今日のお天気
-- 2019/12/30 [【#桐生ココ】あさココLIVEニュース！12/30【#ココここ】](https://www.youtube.com/watch?v=hj9RVNXrzKo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=2)
+- 2019/12/30(月) [【#桐生ココ】あさココLIVEニュース！12/30【#ココここ】](https://www.youtube.com/watch?v=hj9RVNXrzKo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=2)
 	- 【事件】速報音で視聴者の耳を破壊
 	- 【クソダサ】某天使Aさん 超高級ペイントソフトをメモ帳として使う
 	- 【クソダサ速報】パワーポイントは裏切らない
@@ -14,7 +14,7 @@
 		- ココ氏すべったままか？
 	- Wさん(羊) センター争い
 	- 今日の天気
-- 2019/12/31 [【#桐生ココ】あさココLIVEニュース！12/31【#ココここ】](https://www.youtube.com/watch?v=C-4FQD3d_Ps&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=3)
+- 2019/12/31(火) [【#桐生ココ】あさココLIVEニュース！12/31【#ココここ】](https://www.youtube.com/watch?v=C-4FQD3d_Ps&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=3)
 	- ホロライブ4期生3名、怒られる
 	- 【悲報】ココ氏、コラボに向かない
 		- 4期生「必ず switch を買ってください」
@@ -27,7 +27,7 @@
 			- (ケツモチすいせい)
 	- 今日の天気
 		- (まだツボってる)
-- 2020/01/01 [【#桐生ココ】あさココLIVEニュース！1/1【#ココここ】](https://www.youtube.com/watch?v=Trz-Ur8eRaI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=4)
+- 2020/01/01(水) [【#桐生ココ】あさココLIVEニュース！1/1【#ココここ】](https://www.youtube.com/watch?v=Trz-Ur8eRaI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=4)
 	- 【訃報】10万人達成ならず、夏色まつり氏犠牲に
 	- 【クソザコ速報】(角巻わため氏) 雑談放送中に4回の回線切断
 		- LIVE中継 「クソザコ回線ひつじ」こと角巻わため容疑者
@@ -38,7 +38,7 @@
 		- 最強ケツモチ予定の先輩方
 			- 宝鐘マリン、戌神ころね、紫咲シオン、夏色まつり(巴マミ状態)
 	- 今日の天気
-- 2020/01/03 [【#桐生ココ】あさココLIVEニュース！1/3【#ココここ】](https://www.youtube.com/watch?v=uyd2Oi0RfXA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=5)
+- 2020/01/03(金) [【#桐生ココ】あさココLIVEニュース！1/3【#ココここ】](https://www.youtube.com/watch?v=uyd2Oi0RfXA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=5)
 	- 【クソザコ速報】(角巻わため氏) 全ての責任をOBSになすりつける
 		- (一回の生放送で61回も回線を落とす世界記録を達成)
 	- 【くそ】クソザコ毛玉 角巻わため、またやらかす
@@ -53,7 +53,7 @@
 		- 本物のゲーマーはゲーミングPC一択
 	- 今日の天気
 		- おはようございました
-- 2020/01/04 [【#桐生ココ】あさココLIVEニュース！1/4【#ココここ】](https://www.youtube.com/watch?v=9Ib7RAR_2iE&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=6)
+- 2020/01/04(土) [【#桐生ココ】あさココLIVEニュース！1/4【#ココここ】](https://www.youtube.com/watch?v=9Ib7RAR_2iE&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=6)
 	- (チャンネル登録者7万人達成)
 	- 【NEW】(桐生ココ氏) 本日でデビュー1週間経過
 		- (有識者Cさん(3500)) 登録者100万人達成時に後方彼氏面する権利を与える
@@ -68,7 +68,7 @@
 		- (有識者Cさん(3500)) 動画ソフトと諭吉に謝れ
 	- 【NEW】姫森ルーナ Luna Himemori Debut TODAY!! JST8PM
 	- 今日の天気
-- 2020/01/05 [【#桐生ココ】あさココLIVEニュース！1/5【#ココここ】](https://www.youtube.com/watch?v=LVLYoQPMj1U&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=8)
+- 2020/01/05(日) [【#桐生ココ】あさココLIVEニュース！1/5【#ココここ】](https://www.youtube.com/watch?v=LVLYoQPMj1U&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=8)
 	- 【NEW】(H森さん(0)) 初配信無音スタート、そっとtake2
 	- 【NEW】桐生ココ氏、ずっと口開いてる
 	- 【クソザコ】(角巻わため 容疑者) 12回/57:44
@@ -77,7 +77,7 @@
 	- 【嫌われ速報】(小悪魔(自称) Tさん) 緊張しすぎて突然のメンヘラ化
 	- 【悲報】てつのこ(徹夜組)、責任転嫁
 	- ちょっと白竜見てくる (終)
-- 2020/01/06 [【#桐生ココ】あさココLIVEニュース！1/6【#ココここ】](https://www.youtube.com/watch?v=rSCDDD4l8po&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=7)
+- 2020/01/06(月) [【#桐生ココ】あさココLIVEニュース！1/6【#ココここ】](https://www.youtube.com/watch?v=rSCDDD4l8po&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=7)
 	- 【NEW】(自称小悪魔Tさん) これからも(C氏を)便所扱いすると宣言
 	- 赤井はあと氏休止 (フィリピン留学)
 		- ホロライブを良く知るCさん
@@ -93,7 +93,7 @@
 	- 【ボツ】(クソザコ羊Wさん) C氏が吐いた暴言をそのまま伝達
 	- 80,000 subs! (チャンネル登録者8万人突破)
 	- 今日の天気
-- 2020/01/07 [【#桐生ココ】あさココLIVEニュース！1/7【#ココここ】](https://www.youtube.com/watch?v=kpDocyEObpc&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=10)
+- 2020/01/07(火) [【#桐生ココ】あさココLIVEニュース！1/7【#ココここ】](https://www.youtube.com/watch?v=kpDocyEObpc&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=10)
 	- 【悲報】桐生ココ氏、怒られない
 		- マネージャーから「会長」と呼ばれる
 		- 視聴者コメンテーター
@@ -103,7 +103,7 @@
 	- 【NEW】(あさココLIVEの) 英語ver.が欲しいという要望
 		- (有識者Cさん(3500)) ピー音を入れるのがめんどくさい
 	- 今日の天気
-- 2020/01/08 [【#桐生ココ】あさココLIVEニュース！1/8【#ココここ】](https://www.youtube.com/watch?v=Za53d148Qe4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=9)
+- 2020/01/08(水) [【#桐生ココ】あさココLIVEニュース！1/8【#ココここ】](https://www.youtube.com/watch?v=Za53d148Qe4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=9)
 	- C氏のTwitterにガサ入れ、一時停止に
 		- (天使警察による)ガサ入れ時の音声(プライバシーのため加工してあります)
 			- わため逃げろ
@@ -127,7 +127,7 @@
 		- (情報提供者) 有識者Mさん wwwwwwwwww
 	- 【ボツ】K氏、初配信のサムネがクソダサ
 	- 今日の天気
-- 2020/01/09 [【#桐生ココ】あさココLIVEニュース！1/9【#ココここ】](https://www.youtube.com/watch?v=fT5LVs-vO14&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=11)
+- 2020/01/09(木) [【#桐生ココ】あさココLIVEニュース！1/9【#ココここ】](https://www.youtube.com/watch?v=fT5LVs-vO14&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=11)
 	- KSZK 13回
 	- 90,000 subs!!! (チャンネル登録者9万人突破)
 	- 【NEW】初めてのオフ飯 (角巻わため、桐生ココ、天音かなた)
@@ -147,7 +147,7 @@
 		- Son of a bitch: 意味 クソ野郎
 		- That son of a bitch! : 意味 あんのクソ野郎め！
 	- 今日の天気
-- 2020/01/10 [【#桐生ココ】あさココLIVEニュース！1/10【#ココここ】](https://www.youtube.com/watch?v=RLIO0XT6vQI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=12)
+- 2020/01/10(金) [【#桐生ココ】あさココLIVEニュース！1/10【#ココここ】](https://www.youtube.com/watch?v=RLIO0XT6vQI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=12)
 	- (毛玉) 14回
 	- 【NEW】(「PPは裏切らない」天音かなた氏) 先日23時より、パワポ雑談を配信
 		- 開始1分でパワポに裏切られる
@@ -165,7 +165,7 @@
 		- やさい炒め
 		- 草
 	- 今日の天気
-- 2020/01/13 [【#桐生ココ】あさココLIVEニュース！1/13【#ココここ】](https://www.youtube.com/watch?v=ZEmSoGwHIX0&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=13)
+- 2020/01/13(月) [【#桐生ココ】あさココLIVEニュース！1/13【#ココここ】](https://www.youtube.com/watch?v=ZEmSoGwHIX0&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=13)
 	- 100,000 subs!! (チャンネル登録者10万人突破)
 		- おむつを着けた汚ねぇじじどもが一緒に哺乳瓶で詫びミルクを飲むという最悪の瞬間に10万人達成
 		- (視聴者からの情報) 中国の新年は1/25、よって目標達成
@@ -192,7 +192,7 @@
 		- ママ～
 	- 今日の天気
 		- 今日はゲボ
-- 2020/01/14 [【#桐生ココ】あさココLIVEニュース！1/14【#ココここ】](https://www.youtube.com/watch?v=ptsD3SUacww&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=14)
+- 2020/01/14(火) [【#桐生ココ】あさココLIVEニュース！1/14【#ココここ】](https://www.youtube.com/watch?v=ptsD3SUacww&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=14)
 	- 【NEW】THANK YOU 110,000 subs! (チャンネル登録者11万人突破)
 	- 【事件】(天音かなた氏の twitter で4期生の集合写真)
 		- 舞台の裏では地獄のような事が …
@@ -219,7 +219,7 @@
 			- ピクルス
 	- 今日の天気
 		- 地球の気分はメンヘラ
-- 2020/01/15 [【#桐生ココ】あさココLIVEニュース！1/15【#ココここ】](https://www.youtube.com/watch?v=g0s8gtKpjaM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=15)
+- 2020/01/15(水) [【#桐生ココ】あさココLIVEニュース！1/15【#ココここ】](https://www.youtube.com/watch?v=g0s8gtKpjaM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=15)
 	- 【NEW】(桐生ココ氏(3500)) 深夜に突然視聴者を便所扱い
 		- (マインクラフトであまりにも和風な家を作ってしまい、深夜に突然5分にも満たない生配信)
 		- 勝手に家を見せつける配信を始め勝手にスッキリして終了
@@ -244,7 +244,7 @@
 		- アスパラ
 		- 草
 		- (パリン!)
-- 2020/01/16 [ 【#桐生ココ】あさココLIVEニュース！1/16【#ココここ】](https://www.youtube.com/watch?v=4AuamZPL3Ro&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=16)
+- 2020/01/16(木) [ 【#桐生ココ】あさココLIVEニュース！1/16【#ココここ】](https://www.youtube.com/watch?v=4AuamZPL3Ro&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=16)
 	- 【クソザコ速報】(桐生ココ氏(3500)) 1時間予定のホラゲ、開始10分で終了
 		- 焦って雑談に切り替えクソつまらねぇ話を50分
 		- (有識者Cさん(3500)) 1人でしゃべり1人で笑うオタク特有の話し方 これは見ていられない
@@ -271,7 +271,7 @@
 		- (桐生ココ氏セガから許可をもらい) 本日23時実況プレイ配信！
 	- 今日の天気
 	- (終わりの映像入れ忘れた)
-- 2020/01/17 [【#桐生ココ】あさココLIVEニュース！1/17【#ココここ】](https://www.youtube.com/watch?v=g09XoDfswZo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=18)
+- 2020/01/17(金) [【#桐生ココ】あさココLIVEニュース！1/17【#ココここ】](https://www.youtube.com/watch?v=g09XoDfswZo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=18)
 	- 【NEW】(桐生ココ氏) 海外ニキからpotty mouthと認識される
 		- (potty: 子供用の便所)
 	- 【悲報】C氏の押し(推し)マーク、使用率低すぎ問題
