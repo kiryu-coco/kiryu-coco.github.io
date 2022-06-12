@@ -92,7 +92,6 @@
 	- (天音かなた容疑者 角巻わため容疑者 逮捕)「switchを買え」と執拗な脅迫
 		- 本物のゲーマーはゲーミングPC一択
 	- 今日の天気
-		- おはようございました
 
 [2020/01/04]:https://www.youtube.com/watch?v=9Ib7RAR_2iE&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=6
 - [![2020/01/04(土)サムネ](https://i.ytimg.com/vi/9Ib7RAR_2iE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGTlP26QaitMjOkggK5F-xCEqv1w)][2020/01/04]{:target="_blank"}
