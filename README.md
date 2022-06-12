@@ -968,3 +968,5 @@
 	- 本日の西成サーバーのパスワード : wtf
 	- 今日の天気 (お天気お姉さん: 角巻わため)
 		- 祝！！収益化 おめで鯛！ (天音かなた) PP!! PP!! PP!! PP!!
+
+[2020/02/12]:https://www.youtube.com/watch?v=TvMh4B4NQX8&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=34
