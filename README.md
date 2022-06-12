@@ -1,14 +1,14 @@
 # [Coco Ch. 桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w)
 ## あさココLIVEニュース！ (Unofficial Digest) 
 ### [(github)](https://github.com/kiryu-coco/kiryu-coco.github.io) [(github pages)](https://kiryu-coco.github.io)
+- ![2019/12/29(日)サムネ](https://i.ytimg.com/vi/6Y8cEnbk1I4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1rMVZnhj9V7sltSXBV4TuDBCFcg)
 - 2019/12/29(日) [【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】](https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO)
-![2019/12/29(日)サムネ](https://i.ytimg.com/vi/6Y8cEnbk1I4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1rMVZnhj9V7sltSXBV4TuDBCFcg)
 	- 【クソダサ速報】天使Aさん 初配信をパワーポイントで行う
 	- N氏「まつりかな(ピース)」 (「一番恐ろしい先輩は誰ですか？」に対して) 
 	- (ホロライブ公式) 痛恨のスペリングミス
 	- 今日のお天気
+- ![2019/12/30(月)サムネ](https://i.ytimg.com/vi/hj9RVNXrzKo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhgGCdDzc3WqoQsOMrxD8KBhCs_A)
 - 2019/12/30(月) [【#桐生ココ】あさココLIVEニュース！12/30【#ココここ】](https://www.youtube.com/watch?v=hj9RVNXrzKo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=2)
-![2019/12/30(月)サムネ](https://i.ytimg.com/vi/hj9RVNXrzKo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhgGCdDzc3WqoQsOMrxD8KBhCs_A)
 	- 【事件】速報音で視聴者の耳を破壊
 	- 【クソダサ】某天使Aさん 超高級ペイントソフトをメモ帳として使う
 	- 【クソダサ速報】パワーポイントは裏切らない
@@ -17,8 +17,8 @@
 		- ココ氏すべったままか？
 	- Wさん(羊) センター争い
 	- 今日の天気
+- ![2019/12/31(火)サムネ](https://i.ytimg.com/vi/C-4FQD3d_Ps/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBf1XTJOC97Y4SAEj1-PYwrRSHAPA)
 - 2019/12/31(火) [【#桐生ココ】あさココLIVEニュース！12/31【#ココここ】](https://www.youtube.com/watch?v=C-4FQD3d_Ps&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=3)
-![2019/12/31(火)サムネ](https://i.ytimg.com/vi/C-4FQD3d_Ps/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBf1XTJOC97Y4SAEj1-PYwrRSHAPA)
 	- ホロライブ4期生3名、怒られる
 	- 【悲報】ココ氏、コラボに向かない
 		- 4期生「必ず switch を買ってください」
@@ -31,8 +31,8 @@
 			- (ケツモチすいせい)
 	- 今日の天気
 		- (まだツボってる)
+- ![2020/01/01(水)サムネ](https://i.ytimg.com/vi/Trz-Ur8eRaI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7ZjeHrrPvuXQW0BU6-9qMDcNXkQ)
 - 2020/01/01(水) [【#桐生ココ】あさココLIVEニュース！1/1【#ココここ】](https://www.youtube.com/watch?v=Trz-Ur8eRaI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=4)
-![2020/01/01(水)サムネ](https://i.ytimg.com/vi/Trz-Ur8eRaI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7ZjeHrrPvuXQW0BU6-9qMDcNXkQ)
 	- 【訃報】10万人達成ならず、夏色まつり氏犠牲に
 	- 【クソザコ速報】(角巻わため氏) 雑談放送中に4回の回線切断
 		- LIVE中継 「クソザコ回線ひつじ」こと角巻わため容疑者
@@ -43,8 +43,8 @@
 		- 最強ケツモチ予定の先輩方
 			- 宝鐘マリン、戌神ころね、紫咲シオン、夏色まつり(巴マミ状態)
 	- 今日の天気
+- ![2020/01/03(金)サムネ](https://i.ytimg.com/vi/uyd2Oi0RfXA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-ABVrohD7FZdpsVS20eDgvaQFQA)
 - 2020/01/03(金) [【#桐生ココ】あさココLIVEニュース！1/3【#ココここ】](https://www.youtube.com/watch?v=uyd2Oi0RfXA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=5)
-![2020/01/03(金)サムネ](https://i.ytimg.com/vi/uyd2Oi0RfXA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-ABVrohD7FZdpsVS20eDgvaQFQA)
 	- 【クソザコ速報】(角巻わため氏) 全ての責任をOBSになすりつける
 		- (一回の生放送で61回も回線を落とす世界記録を達成)
 	- 【くそ】クソザコ毛玉 角巻わため、またやらかす
@@ -59,8 +59,8 @@
 		- 本物のゲーマーはゲーミングPC一択
 	- 今日の天気
 		- おはようございました
+- ![2020/01/04(土)サムネ](https://i.ytimg.com/vi/9Ib7RAR_2iE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGTlP26QaitMjOkggK5F-xCEqv1w)
 - 2020/01/04(土) [【#桐生ココ】あさココLIVEニュース！1/4【#ココここ】](https://www.youtube.com/watch?v=9Ib7RAR_2iE&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=6)
-![2020/01/04(土)サムネ](https://i.ytimg.com/vi/9Ib7RAR_2iE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGTlP26QaitMjOkggK5F-xCEqv1w)
 	- (チャンネル登録者7万人達成)
 	- 【NEW】(桐生ココ氏) 本日でデビュー1週間経過
 		- (有識者Cさん(3500)) 登録者100万人達成時に後方彼氏面する権利を与える
@@ -75,8 +75,8 @@
 		- (有識者Cさん(3500)) 動画ソフトと諭吉に謝れ
 	- 【NEW】姫森ルーナ Luna Himemori Debut TODAY!! JST8PM
 	- 今日の天気
+- ![2020/01/05(日)サムネ](https://i.ytimg.com/vi/LVLYoQPMj1U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBFSUKrzqIof-sl66VHJmup0qCWdQ)
 - 2020/01/05(日) [【#桐生ココ】あさココLIVEニュース！1/5【#ココここ】](https://www.youtube.com/watch?v=LVLYoQPMj1U&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=8)
-![2020/01/05(日)サムネ](https://i.ytimg.com/vi/LVLYoQPMj1U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBFSUKrzqIof-sl66VHJmup0qCWdQ)
 	- 【NEW】(H森さん(0)) 初配信無音スタート、そっとtake2
 	- 【NEW】桐生ココ氏、ずっと口開いてる
 	- 【クソザコ】(角巻わため 容疑者) 12回/57:44
@@ -85,8 +85,8 @@
 	- 【嫌われ速報】(小悪魔(自称) Tさん) 緊張しすぎて突然のメンヘラ化
 	- 【悲報】てつのこ(徹夜組)、責任転嫁
 	- ちょっと白竜見てくる (終)
+- ![2020/01/06(月)サムネ](https://i.ytimg.com/vi/rSCDDD4l8po/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYPuw3_IwpalqU3S3Dt9v55gIMIQ)
 - 2020/01/06(月) [【#桐生ココ】あさココLIVEニュース！1/6【#ココここ】](https://www.youtube.com/watch?v=rSCDDD4l8po&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=7)
-![2020/01/06(月)サムネ](https://i.ytimg.com/vi/rSCDDD4l8po/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYPuw3_IwpalqU3S3Dt9v55gIMIQ)
 	- 【NEW】(自称小悪魔Tさん) これからも(C氏を)便所扱いすると宣言
 	- 赤井はあと氏休止 (フィリピン留学)
 		- ホロライブを良く知るCさん
@@ -102,8 +102,8 @@
 	- 【ボツ】(クソザコ羊Wさん) C氏が吐いた暴言をそのまま伝達
 	- 80,000 subs! (チャンネル登録者8万人突破)
 	- 今日の天気
+- ![2020/01/07(火)サムネ](https://i.ytimg.com/vi/kpDocyEObpc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDn0PA4D20r7ciTjXEK1tqW0wCDkg)
 - 2020/01/07(火) [【#桐生ココ】あさココLIVEニュース！1/7【#ココここ】](https://www.youtube.com/watch?v=kpDocyEObpc&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=10)
-![2020/01/07(火)サムネ](https://i.ytimg.com/vi/kpDocyEObpc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDn0PA4D20r7ciTjXEK1tqW0wCDkg)
 	- 【悲報】桐生ココ氏、怒られない
 		- マネージャーから「会長」と呼ばれる
 		- 視聴者コメンテーター
@@ -113,8 +113,8 @@
 	- 【NEW】(あさココLIVEの) 英語ver.が欲しいという要望
 		- (有識者Cさん(3500)) ピー音を入れるのがめんどくさい
 	- 今日の天気
+- ![2020/01/08(水)サムネ](https://i.ytimg.com/vi/Za53d148Qe4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALnNe682zUO0I0UtSbrGROLNwDqQ)
 - 2020/01/08(水) [【#桐生ココ】あさココLIVEニュース！1/8【#ココここ】](https://www.youtube.com/watch?v=Za53d148Qe4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=9)
-![2020/01/08(水)サムネ](https://i.ytimg.com/vi/Za53d148Qe4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALnNe682zUO0I0UtSbrGROLNwDqQ)
 	- C氏のTwitterにガサ入れ、一時停止に
 		- (天使警察による)ガサ入れ時の音声(プライバシーのため加工してあります)
 			- わため逃げろ
@@ -138,8 +138,8 @@
 		- (情報提供者) 有識者Mさん wwwwwwwwww
 	- 【ボツ】K氏、初配信のサムネがクソダサ
 	- 今日の天気
+- ![2020/01/09(木)サムネ](https://i.ytimg.com/vi/fT5LVs-vO14/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhH1_jouyOm74XtkgLoCcAuYsNSA)
 - 2020/01/09(木) [【#桐生ココ】あさココLIVEニュース！1/9【#ココここ】](https://www.youtube.com/watch?v=fT5LVs-vO14&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=11)
-![2020/01/09(木)サムネ](https://i.ytimg.com/vi/fT5LVs-vO14/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhH1_jouyOm74XtkgLoCcAuYsNSA)
 	- KSZK 13回
 	- 90,000 subs!!! (チャンネル登録者9万人突破)
 	- 【NEW】初めてのオフ飯 (角巻わため、桐生ココ、天音かなた)
@@ -159,8 +159,8 @@
 		- Son of a bitch: 意味 クソ野郎
 		- That son of a bitch! : 意味 あんのクソ野郎め！
 	- 今日の天気
+- ![2020/01/10(金)サムネ](https://i.ytimg.com/vi/RLIO0XT6vQI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD23QWrNPc3HoXuPv1PA2m1O-zdfw)
 - 2020/01/10(金) [【#桐生ココ】あさココLIVEニュース！1/10【#ココここ】](https://www.youtube.com/watch?v=RLIO0XT6vQI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=12)
-![2020/01/10(金)サムネ](https://i.ytimg.com/vi/RLIO0XT6vQI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD23QWrNPc3HoXuPv1PA2m1O-zdfw)
 	- (毛玉) 14回
 	- 【NEW】(「PPは裏切らない」天音かなた氏) 先日23時より、パワポ雑談を配信
 		- 開始1分でパワポに裏切られる
@@ -178,8 +178,8 @@
 		- やさい炒め
 		- 草
 	- 今日の天気
+- ![2020/01/13(月)サムネ](https://i.ytimg.com/vi/ZEmSoGwHIX0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFGnFfIxPJDC5cHjzTc5MwpJDaOg)
 - 2020/01/13(月) [【#桐生ココ】あさココLIVEニュース！1/13【#ココここ】](https://www.youtube.com/watch?v=ZEmSoGwHIX0&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=13)
-![2020/01/13(月)サムネ](https://i.ytimg.com/vi/ZEmSoGwHIX0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFGnFfIxPJDC5cHjzTc5MwpJDaOg)
 	- 100,000 subs!! (チャンネル登録者10万人突破)
 		- おむつを着けた汚ねぇじじどもが一緒に哺乳瓶で詫びミルクを飲むという最悪の瞬間に10万人達成
 		- (視聴者からの情報) 中国の新年は1/25、よって目標達成
@@ -203,8 +203,8 @@
 		- ママ～
 	- 今日の天気
 		- 今日はゲボ
+- ![2020/01/14(火)サムネ](https://i.ytimg.com/vi/ptsD3SUacww/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1Oy__1FtMoVGhnNjWqkfRsJ7Atw)
 - 2020/01/14(火) [【#桐生ココ】あさココLIVEニュース！1/14【#ココここ】](https://www.youtube.com/watch?v=ptsD3SUacww&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=14)
-![2020/01/14(火)サムネ](https://i.ytimg.com/vi/ptsD3SUacww/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1Oy__1FtMoVGhnNjWqkfRsJ7Atw)
 	- 【NEW】THANK YOU 110,000 subs! (チャンネル登録者11万人突破)
 	- 【事件】(天音かなた氏の twitter で4期生の集合写真)
 		- 舞台の裏では地獄のような事が …
@@ -227,8 +227,8 @@
 			- 肉・たまご・チーズ・バンズ・ピクルス
 	- 今日の天気
 		- 地球の気分はメンヘラ
+- ![2020/01/15(水)サムネ](https://i.ytimg.com/vi/g0s8gtKpjaM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDGGQl7wR2Kqq8IV5veDC9zlL2k4g)
 - 2020/01/15(水) [【#桐生ココ】あさココLIVEニュース！1/15【#ココここ】](https://www.youtube.com/watch?v=g0s8gtKpjaM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=15)
-![2020/01/15(水)サムネ](https://i.ytimg.com/vi/g0s8gtKpjaM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDGGQl7wR2Kqq8IV5veDC9zlL2k4g)
 	- 【NEW】(桐生ココ氏(3500)) 深夜に突然視聴者を便所扱い
 		- (マインクラフトであまりにも和風な家を作ってしまい、深夜に突然5分にも満たない生配信)
 		- 勝手に家を見せつける配信を始め勝手にスッキリして終了
@@ -251,8 +251,8 @@
 	- ３分クッキング
 		- 魚・アスパラ・草
 		- (パリン!)
+- ![2020/01/16(木)サムネ](https://i.ytimg.com/vi/4AuamZPL3Ro/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4LTAIB0VtE3MQJxMq99EoWmk0yw)
 - 2020/01/16(木) [ 【#桐生ココ】あさココLIVEニュース！1/16【#ココここ】](https://www.youtube.com/watch?v=4AuamZPL3Ro&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=16)
-![2020/01/16(木)サムネ](https://i.ytimg.com/vi/4AuamZPL3Ro/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4LTAIB0VtE3MQJxMq99EoWmk0yw)
 	- 【クソザコ速報】(桐生ココ氏(3500)) 1時間予定のホラゲ、開始10分で終了
 		- 焦って雑談に切り替えクソつまらねぇ話を50分
 		- (有識者Cさん(3500)) 1人でしゃべり1人で笑うオタク特有の話し方 これは見ていられない
@@ -279,8 +279,8 @@
 		- (桐生ココ氏セガから許可をもらい) 本日23時実況プレイ配信！
 	- 今日の天気
 	- (終わりの映像入れ忘れた)
+- ![2020/01/17(金)サムネ](https://i.ytimg.com/vi/g09XoDfswZo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZjExMnLzCdw-sjKwHQv57Yt75iw)
 - 2020/01/17(金) [【#桐生ココ】あさココLIVEニュース！1/17【#ココここ】](https://www.youtube.com/watch?v=g09XoDfswZo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=18)
-![2020/01/17(金)サムネ](https://i.ytimg.com/vi/g09XoDfswZo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZjExMnLzCdw-sjKwHQv57Yt75iw)
 	- 【NEW】(桐生ココ氏) 海外ニキからpotty mouthと認識される
 		- (potty: 子供用の便所)
 	- 【悲報】C氏の押し(推し)マーク、使用率低すぎ問題
@@ -306,8 +306,8 @@
 		- (殺人現場)
 		- (パリン!)
 	- 今日の天気 (絵: 桐生ココ)
+- ![2020/01/20(月)サムネ](https://i.ytimg.com/vi/bHX-HtWZ_OA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdoS7ekTwWZg_MsRdL-E4eV38tCA)
 - 2020/01/20(月) [【#桐生ココ】あさココLIVEニュース！1/20【#ココここ】](https://www.youtube.com/watch?v=bHX-HtWZ_OA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=19)
-![2020/01/20(月)サムネ](https://i.ytimg.com/vi/bHX-HtWZ_OA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdoS7ekTwWZg_MsRdL-E4eV38tCA)
 	- (放送事故: 西成じじい)
 	- 【クソザコ速報】(天音かなた氏) 寝坊して配信に50分遅刻
 		- (14:00 から始まるはずの魔界村の配信、天音氏「ぐっすりでした」)
@@ -333,8 +333,8 @@
 		- (有識者Cさん(3500)) 2Dでは神絵師、(3Dでは)非常に残念
 	- 赤井はあとパイセン本日復活
 	- 今日の天気
+- ![2020/01/21(火)サムネ](https://i.ytimg.com/vi/3k1L5_tot5U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjIxopZFHZOftvphh8Kj4hp6aF6w)
 - 2020/01/21(火) [【#桐生ココ】あさココLIVEニュース！1/21【#ココここ】](https://www.youtube.com/watch?v=3k1L5_tot5U&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=17)
-![2020/01/21(火)サムネ](https://i.ytimg.com/vi/3k1L5_tot5U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjIxopZFHZOftvphh8Kj4hp6aF6w)
 	- 【NEW】THANKS 120,000 subs! (チャンネル登録者12万人突破)
 		- (実はこのニュースは昨日やろうと思って時間が無くて仕方がなかった)
 	- 【疑惑】桐生ココ、ガチ恋ファン1人もいない説
@@ -363,8 +363,8 @@
 		- Tボーンステーキ
 			- 肉・ポテト・ブロッコリー
 	- 今日の天気
+- ![2020/01/22(水)サムネ](https://i.ytimg.com/vi/0Ys96IZPTUI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBs9FWbVMuR8uutcMTWCYT0JRYDEw)
 - 2020/01/22(水) [【#桐生ココ】あさココLIVEニュース！1/22【#ココここ】](https://www.youtube.com/watch?v=0Ys96IZPTUI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=20)
-![2020/01/22(水)サムネ](https://i.ytimg.com/vi/0Ys96IZPTUI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBs9FWbVMuR8uutcMTWCYT0JRYDEw)
 	- 【NEW】(桐生Cコ氏(3500)) ついにやらかす
 		- 天使にSMクラブについて説明中言ってはいけない言葉を口走る
 		- 放送終了後編集のため即非公開に
@@ -396,8 +396,8 @@
 			- 砂糖・ココナッツミルク・はちみつ
 			- タルト
 	- 今日の天気
+- ![2020/01/24(金)サムネ](https://i.ytimg.com/vi/i6fEDcN_tHI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoGGU7-mQ8P5j_ICx7kQ2A50Y7dQ)
 - 2020/01/24(金) [【#桐生ココ】あさココLIVEニュース！1/24【#ココここ】](https://www.youtube.com/watch?v=i6fEDcN_tHI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=21)
-![2020/01/24(金)サムネ](https://i.ytimg.com/vi/i6fEDcN_tHI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoGGU7-mQ8P5j_ICx7kQ2A50Y7dQ)
 	- 【悲報】700人以上エアあさココをキメる
 		- 何かに草を生やしている様子
 		- (有識者Cさん(3500)) 正気の沙汰ではない
@@ -427,8 +427,8 @@
 		- 8000回視聴すれば実質無料
 		- 4期生は同時視聴で応援配信！
 	- 今日の天気
+- ![2020/01/27(月)サムネ](https://i.ytimg.com/vi/nqWNVpcuSLA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4_km1kZ2EeL0_-jMFxov1RX5BZw)
 - 2020/01/27(月) [【#桐生ココ】あさココLIVEニュース！1/27【#ココここ】](https://www.youtube.com/watch?v=nqWNVpcuSLA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=22)
-![2020/01/27(月)サムネ](https://i.ytimg.com/vi/nqWNVpcuSLA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4_km1kZ2EeL0_-jMFxov1RX5BZw)
 	- 【NEW】Thanks! 140,000subs!! (チャンネル登録者14万人突破)
 	- 【NEW】(夏色まつり氏) ライブ当日に収益化はく奪
 		- (桐生ココ氏) ガチンコ収益化RTA勝負、挑まれる！
@@ -465,8 +465,8 @@
 			- 油・辛い奴(赤唐辛子？)・ガーリック・エビ・ガーリックパウダー・塩・キノコ・草
 		- (パリン！)
 	- 今日の天気
+- ![2020/01/28(火)サムネ](https://i.ytimg.com/vi/G7zzkft-LgU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASYkY5oiYhtocZfC6iO2ckZQTm1Q)
 - 2020/01/28(火) [【#桐生ココ】あさココLIVEニュース！1/28【#ココここ】](https://www.youtube.com/watch?v=G7zzkft-LgU&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=23)
-![2020/01/28(火)サムネ](https://i.ytimg.com/vi/G7zzkft-LgU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASYkY5oiYhtocZfC6iO2ckZQTm1Q)
 	- 【記念日】(桐生ココ氏) 本日デビュー1か月記念日！
 		- Twitterにマシュマロを設置
 		- (マシュマロに) 罵詈雑言を期待するも、意外と平和
@@ -496,8 +496,8 @@
 		- (有識者C氏(3500)) 角的には滅殺される側、悲しい
 	- 今日の天気
 		- 今日は天気予報を用意するのを完全に忘れていた
+- ![2020/01/29(水)サムネ](https://i.ytimg.com/vi/ZUOQvvba_Uo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCMafOXeKabIewQ0M2ADz3GTVn-Xg)
 - 2020/01/29(水) [【#桐生ココ】あさココLIVEニュース！1月29日【#ココここ】](https://www.youtube.com/watch?v=ZUOQvvba_Uo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=24)
-![2020/01/29(水)サムネ](https://i.ytimg.com/vi/ZUOQvvba_Uo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCMafOXeKabIewQ0M2ADz3GTVn-Xg)
 	- (立てばアイドル、喋ればヤクザ、歩く姿は無収益)
 	- 【クソザコ速報】 (桐生ココ氏(3500)) 天使とのコラボ約束を忘れDB(ダブルブッキング)かます
 		- 1/29 20:00 (1/28 20:00) (配信予約)
@@ -536,8 +536,8 @@
 		- (ARK やるには GTX 1080 ぐらいあったほうが良い)
 		- (ケーブルはマザーボードじゃなくてグラボに刺せ)
 	- 今日の天気 (お天気のおねいさん: 角巻わため)
+- ![2020/01/30(木)サムネ](https://i.ytimg.com/vi/KDz-qX8pcSE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwH8GssKUQHMr5F78XuLxk0-FFAw)
 - 2020/01/30(木) [【#桐生ココ】あさココLIVEニュース！1月30日【#ココここ】](https://www.youtube.com/watch?v=KDz-qX8pcSE&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=25)
-![2020/01/30(木)サムネ](https://i.ytimg.com/vi/KDz-qX8pcSE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwH8GssKUQHMr5F78XuLxk0-FFAw)
 	- 【NEW】THANK YOU 150,000subs! (チャンネル登録者15万人突破)
 	- 【クソザコ大速報】(製薬会社アキビュー代表 アキ・ローゼンタール氏) ARKサーバー入場に21時間、記録更新
 		- (桐生Cコ氏(3500)) そもそも伝えるパスを間違えていた
@@ -569,8 +569,8 @@
 	- 【悲報】(あくあマリンパイセン) 昨日の夜から現在まで (ARK) サーバーに
 		- (マリンパイセン)「もうクソださ犬小屋とは呼ばせない」
 	- 今日の天気 (お天気のおねいさん: 角巻わため)
+- ![2020/01/31(金)サムネ](https://i.ytimg.com/vi/dmAoZ-aw8XI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYsb4Rw-YheIlU_GJC7S8IS5X6EQ)
 - 2020/01/31(金) [【#桐生ココ】あさココLIVEニュース！1月31日【#ココここ】](https://www.youtube.com/watch?v=dmAoZ-aw8XI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=26)
-![2020/01/31(金)サムネ](https://i.ytimg.com/vi/dmAoZ-aw8XI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYsb4Rw-YheIlU_GJC7S8IS5X6EQ)
 	- (頭の上で「ガタガタ」はしゃいでいるのが今日の視聴者コメンテーターのみなさんです)
 	- 【クソダサ速報】PP天使のフリー素材、既読スルー
 		- (水曜日17:45 天音かなた氏が 4 期生の discord に「フリー素材！！自由に着ていいよ」などとしてTシャツの画像を投稿して以降会話が止まる)
@@ -614,8 +614,8 @@
 		- 見るよねえ？？
 		- わためのうた 絵:篠月しのぶ
 		- 2020.2.3(mon) START!!
+- ![2020/02/03(月)サムネ](https://i.ytimg.com/vi/-DlXxPiDEWk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBvCbU-yNOLRgeIeUh-tQMABvhqqQ)
 - 2020/02/03(月) [【#桐生ココ】あさココLIVEニュース！2月3日【#ココここ】](https://www.youtube.com/watch?v=-DlXxPiDEWk&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=27)
-![2020/02/03(月)サムネ](https://i.ytimg.com/vi/-DlXxPiDEWk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBvCbU-yNOLRgeIeUh-tQMABvhqqQ)
 	- 【NEW】THANKS!! 160,000subs!!(チャンネル登録者16万人突破)
 	- 【朗報】ホロライブの先輩方、みんな収益化復活！
 		- (The Quartering 氏) 海外ニキ、ホロ収益剝奪の事態を拡散
@@ -639,8 +639,8 @@
 			- サーバーアップデートは平日6時 20～30分程度サーバー停止する
 	- 今日の天気 (お天気のおねいさん: 角巻わため)
 		- フリーザー
+- ![2020/02/04(火)サムネ](https://i.ytimg.com/vi/hrTR9VzKWXs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDH3DiB6P_YOjb0Muq3y1ft8FF9Xg)
 - 2020/02/04(火) [【#桐生ココ】あさココLIVEニュース！2月4日【#ココここ】](https://www.youtube.com/watch?v=hrTR9VzKWXs&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=28)
-![2020/02/04(火)サムネ](https://i.ytimg.com/vi/hrTR9VzKWXs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDH3DiB6P_YOjb0Muq3y1ft8FF9Xg)
 	- (ここはにしなり)
 	- 【悲報】(ホロライブ専門プロ視聴者)「ARK配信多すぎて追いきれない」
 		- (2/3ホロライブのスケジュール(ホロジュール))
@@ -678,8 +678,8 @@
 	- 今日のARKパスワード : gebococo
 	- 今日の天気 (お天気のおねいさん: 角巻わため)
 		- はあちゃま
+- ![2020/02/05(水)サムネ](https://i.ytimg.com/vi/vyG3OXVp888/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1bHhIy8TX0URU2ZOVIjUUN7PZvw)
 - 2020/02/05(水) [【#桐生ココ】あさココLIVEニュース！2月5日【#ココここ】](https://www.youtube.com/watch?v=vyG3OXVp888&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=29)
-![2020/02/05(水)サムネ](https://i.ytimg.com/vi/vyG3OXVp888/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1bHhIy8TX0URU2ZOVIjUUN7PZvw)
 	- 【廃人速報】(湊Aくあ氏) 廃人過ぎて日付感覚消失 (※ARK歴1週間)
 		- (ARKとは) ホロライブ内で廃人を生産している問題作
 		- (管理人C氏(3500)) 組織の金で専用サーバーを設立
@@ -714,8 +714,8 @@
 	- ★本日の西成★
 	- 今日の天気 (お天気お姉さん: 角巻わため)
 		- スプー
+- ![2020/02/06(木)サムネ](https://i.ytimg.com/vi/MfBXNaKSgpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-7_YWeKsqlkdau3LOd9sTVDSGZQ)
 - 2020/02/06(木) [【#桐生ココ】あさココLIVEニュース！2月6日【#ココここ】](https://www.youtube.com/watch?v=MfBXNaKSgpI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=30)
-![2020/02/06(木)サムネ](https://i.ytimg.com/vi/MfBXNaKSgpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-7_YWeKsqlkdau3LOd9sTVDSGZQ)
 	- 【NEW】THANKS! 170,000subs!! (チャンネル登録者17万人突破)
 	- 【NEW】(桐生ココ氏) PP天使に奢り、ケジメ付ける
 		- ((既報) ココ氏 天使とのコラボ約束を忘れダブルブッキング)
@@ -746,8 +746,8 @@
 	- ★本日の西成★
 	- 今日の天気 (お天気お姉さん: 角巻わため)
 		- アンパンマン
+- ![2020/02/07(金)サムネ](https://i.ytimg.com/vi/zzf8HYuGoQg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCT15_V8tlN3frdfhd9HRqGr5L0NA)
 - 2020/02/07(金) [【#桐生ココ】あさココLIVEニュース！2月7日【#ココここ】](https://www.youtube.com/watch?v=zzf8HYuGoQg&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=31)
-![2020/02/07(金)サムネ](https://i.ytimg.com/vi/zzf8HYuGoQg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCT15_V8tlN3frdfhd9HRqGr5L0NA)
 	- 【疑惑】(天音Kなた氏) 「オウムになったら即終了配信」
 		- 26秒で終了なのではないか？
 			- わため：ドドドへい？ドドドへい
@@ -784,8 +784,8 @@
 	- 本日の西成サーバーのパスワード : cocotantan
 	- 今日の天気 (お天気お姉さん: 角巻わため)
 		- ドラえもん (日本で一番人気の耳を引きちぎられたネズミ公)
+- ![2020/02/10(月)サムネ](https://i.ytimg.com/vi/Yeup6caQk1M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFzV1FRO55ktZ2q9U9jmmMHaC_PQ)
 - 2020/02/10(月) [【#桐生ココ】あさココLIVEニュース！2月10日【#ココここ】](https://www.youtube.com/watch?v=Yeup6caQk1M&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=32)
-![2020/02/10(月)サムネ](https://i.ytimg.com/vi/Yeup6caQk1M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFzV1FRO55ktZ2q9U9jmmMHaC_PQ)
 	- 【NEW】THANKS!180,000subs! (チャンネル登録者18万人突破)
 	- 【NEW】桐生ココch,やっと収益化！
 		- PP天使収益化により無収益0人に (最後に滑り込み収益化 天音かなた氏) 
@@ -832,8 +832,8 @@
 	- 本日の西成サーバーのパスワード : asshole
 	- 今日の天気 (お天気お姉さん: 角巻わため)
 		- (桐生ココ) 収益化おめでとう！！
+- ![2020/02/11(火)サムネ](https://i.ytimg.com/vi/RkXd__Sd0OM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAF7SxHak-j6PbVnMo47YBtTKVL-Q)
 - 2020/02/11(火) [【#桐生ココ】あさココLIVEニュース！2月11日【#ココここ】](https://www.youtube.com/watch?v=RkXd__Sd0OM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=33)
-![2020/02/11(火)サムネ](https://i.ytimg.com/vi/RkXd__Sd0OM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAF7SxHak-j6PbVnMo47YBtTKVL-Q)
 	- (放送事故(ミュート))
 	- 【NEW】streamlabs導入話何処へ
 		- (マネジャー) 2020/01/19 … 谷郷さんにも話して導入する方向で進んでいます！ 早かったら来週あたりでしょうか。
@@ -870,3 +870,35 @@
 		- (サーバー止めるの忘れてた、はい停止)
 	- 今日の天気 (お天気お姉さん: 角巻わため)
 		- 天気の子 (よくわからねーけど雨？)
+- ![2020/02/12(水)サムネ](https://i.ytimg.com/vi/TvMh4B4NQX8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB24MwkyCB3hsItkpvmhz99mjeEkw)
+- 2020/02/12(水) [【#桐生ココ】あさココLIVEニュース！2月12日【#ココここ】](https://www.youtube.com/watch?v=TvMh4B4NQX8&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=34)
+	- 【NEW】THANKS!190,000subs!! (チャンネル登録者19万人突破)
+	- 【NEW】(#祝桐生ココ収益化) 世界のトレンド1位(一時的)
+		- スパチャスプラッシュを初体験
+		- (桐生ココ氏(3500)) 立てばアイドル、喋ればヤクザ、歩く姿は無収益 (汚名返上)
+		- (桐生ココ氏(3500)) 西成女王
+		- (有識者C氏(3500)) 夢に893万円近づいた、感謝したい
+		- (有識者C氏(3500)) 「YouTubeに根こそぎ取られる」
+	- 【NEW】(星街すいせい氏) テトリス世界レベルの決戦
+		- テトリス世界2位と勝負
+		- 世界1位がコメ欄に現れる
+		- (星街すいせい氏(コメント)) 私に挑戦するということは世界に挑むということよ！！！！
+		- (有識者C氏(3500)) ホロライブが目指すべきは世界 はっきりわかんだね
+	- 【NEW】(桐生ココ氏(3500)) マシュマロに頼らず歌枠をやりきる
+		- 【クソへた】(アーカイブ) 聞くに堪えずボイトレ検討
+	- 【CM】ホロライブ珍回答王 (赤井はあと、桐生ココ)
+		- 2/12(水)19:00～
+		- ホロライブの英語力が暴かれる！
+	- 【通販コーナー】夢見る天使公のブラ (角巻わため、天音かなた、桐生ココ)
+		- 優しい天然 抜け羽素材 徹底的に垂れ防止！！！ Aカップのみの限定生産！！
+		- 本日放送！ (天音かなた氏) 祝！！10万＆収益化 (記念配信ということで)
+		- 通常価格1万円 → (天使希望価格) 送料別200円
+	- 【NEW】広がるARKパンデミック
+		- 新マップ"GENESIS"2/25配信(予定)
+		- (有識者C氏(3500)) 全人類ARKしろ、毎秒発信しろ
+	- 【NEW】(ホロライブ)運営、ビビッてstreamlabs白紙に
+		- (有識者C氏(3500)) BAN如きを恐れるとは情けない
+		- (有識者C氏(3500)) Fuckin'運営
+	- 本日の西成サーバーのパスワード : wtf
+	- 今日の天気 (お天気お姉さん: 角巻わため)
+		- 祝！！収益化 おめで鯛！ (天音かなた) PP!! PP!! PP!! PP!!
