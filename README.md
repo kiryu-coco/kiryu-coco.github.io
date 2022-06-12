@@ -1,6 +1,8 @@
 # [Coco Ch. 桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w){:target="_blank"}
 ## あさココLIVEニュース！ (Unofficial Digest) 
 ### [(github)](https://github.com/kiryu-coco/kiryu-coco.github.io) [(github pages)](https://kiryu-coco.github.io)
+
+[2019/12/29]:https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO
 - [![2019/12/29(日)サムネ](https://i.ytimg.com/vi/6Y8cEnbk1I4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1rMVZnhj9V7sltSXBV4TuDBCFcg)][2019/12/29]{:target="_blank"}
 - 2019/12/29(日) [【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】][2019/12/29]{:target="_blank"}
 	- 【クソダサ速報】天使Aさん 初配信をパワーポイントで行う
@@ -8,7 +10,8 @@
 		- ((天使Aさん) ようこそ★天音かなたの初配信へ★)
 		- (有識者C氏(3500)) ★なんて500年ぶりに見た
 		- (天使Aさん) 「初めてのパワポ、一か月がんばったよ」
-	- N氏「まつりかな(ピース)」 (ココ氏「一番恐ろしいホロライブのパイセンは誰ですか？」に対して)
+	- N氏「まつりかな(ピース)」
+		- (ココ氏「一番恐ろしいホロライブのパイセンは誰ですか？」に対して)
 	- (ホロライブ公式) 痛恨のスペリングミス
 		- Shiny Smily Story
 		- ×smily ⇒ 〇smiley (ココ氏の指摘) 
@@ -18,17 +21,28 @@
 	- 今日のお天気 (お天気お姉さん: 桐生ココ)
 	- 【NEW】角巻わため ★今日の20時から★ (デビュー)
 
-[2019/12/29]:https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO
 - [![2019/12/30(月)サムネ](https://i.ytimg.com/vi/hj9RVNXrzKo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhgGCdDzc3WqoQsOMrxD8KBhCs_A)][2019/12/30]{:target="_blank"}
 - 2019/12/30(月) [【#桐生ココ】あさココLIVEニュース！12/30【#ココここ】][2019/12/30]{:target="_blank"}
 	- 【事件】速報音で視聴者の耳を破壊
-	- 【クソダサ】某天使Aさん 超高級ペイントソフトをメモ帳として使う
-	- 【クソダサ速報】パワーポイントは裏切らない
+		- (「あさココ」番組P) たつのこは特殊な訓練をしているので平気
+	- 【クソダサ】(某天使Aさん) 超高級ペイントソフトをメモ帳として使う
+		- 力を発揮させてもらえない無残なクリスタの姿
+		- (有識者C(3500)) パソコンが可哀想
+	- 【クソダサ速報】(独占入手) ※音声のみ
+		- ((桐生ココ氏) 高額のクリップスタジオをクソメモ帳以下の使い方をしてしまった事に対して謝罪を求めます)
+		- ((天音かなた氏) 事務所通してもらえますか？ホロライブホロライブ)
+		- ((桐生ココ氏) そんな暴力団の名前を出して良いんですか？それは脅迫ではないのでしょうか？)
+		- ((天音かなた氏) パワーポイントは裏切らない、失礼します)
+		- (放送事故:咳)
 	- 「痛恨のスペリングミス」について公式からコメント
 		- (友人A(えーちゃん)) これには意味があるのでガチミスではない
-		- ココ氏すべったままか？
-	- Wさん(羊) センター争い
+		- ココ氏すべったままか？ ポジティブ解釈にはノーコメント貫く
+	- (Wさん(羊)) (桐生ココ氏と)センター争い
+		- ((ひつじ公) ココちん残念だったな私がデビュー3番目なのだから真ん中は私なのだ)
+		- (毛玉)「ココちゃんもくさそう」
 	- 今日の天気
+	- (ドラゴンvs毛玉 もちろんステゴロでやる)
+	- (おはようございました～)
 
 [2019/12/30]:https://www.youtube.com/watch?v=hj9RVNXrzKo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=2
 - [![2019/12/31(火)サムネ](https://i.ytimg.com/vi/C-4FQD3d_Ps/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBf1XTJOC97Y4SAEj1-PYwrRSHAPA)][2019/12/31]{:target="_blank"}
