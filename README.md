@@ -800,4 +800,8 @@
 	- 本日の西成サーバーのパスワード : asshole
 	- 今日の天気 (お天気お姉さん: 角巻わため)
 		- (桐生ココ) 収益化おめでとう！！
-- ![サムネ](https://i.ytimg.com/vi/RkXd__Sd0OM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAF7SxHak-j6PbVnMo47YBtTKVL-Q) 2020/02/11(火) [【#桐生ココ】あさココLIVEニュース！2月11日【#ココここ】](https://www.youtube.com/watch?v=RkXd__Sd0OM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=33)
+- 2020/02/11(火)
+[【#桐生ココ】あさココLIVEニュース！2月11日【#ココここ】](https://www.youtube.com/watch?v=RkXd__Sd0OM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=33)
+![サムネ](https://i.ytimg.com/vi/RkXd__Sd0OM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAF7SxHak-j6PbVnMo47YBtTKVL-Q)
+	- (放送事故(ミュート))
+	- 【NEW】streamlabs導入話何処へ
