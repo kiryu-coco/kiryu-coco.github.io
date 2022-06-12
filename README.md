@@ -4,9 +4,19 @@
 - [![2019/12/29(日)サムネ](https://i.ytimg.com/vi/6Y8cEnbk1I4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1rMVZnhj9V7sltSXBV4TuDBCFcg)][2019/12/29]{:target="_blank"}
 - 2019/12/29(日) [【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】][2019/12/29]{:target="_blank"}
 	- 【クソダサ速報】天使Aさん 初配信をパワーポイントで行う
-	- N氏「まつりかな(ピース)」 (「一番恐ろしい先輩は誰ですか？」に対して) 
+		- (有識者C氏(3500)) 1か月もあれば、ペイントソフトや動画制作もマスターできたはず
+		- ((天使Aさん) ようこそ★天音かなたの初配信へ★)
+		- (有識者C氏(3500)) ★なんて500年ぶりに見た
+		- (天使Aさん) 「初めてのパワポ、一か月がんばったよ」
+	- N氏「まつりかな(ピース)」 (ココ氏「一番恐ろしいホロライブのパイセンは誰ですか？」に対して)
 	- (ホロライブ公式) 痛恨のスペリングミス
-	- 今日のお天気
+		- Shiny Smily Story
+		- ×smily ⇒ 〇smiley (ココ氏の指摘) 
+		- (運営のアニキ) えっ、まじすか …
+		- ((ココ氏) 抜けている e は english の e なのでは？ 4期生が英語で SSS 歌うことで、抜けている e を補うのでは？)
+		- (運営のアニキ) … (まさかの反応なし)
+	- 今日のお天気 (お天気お姉さん: 桐生ココ)
+	- 【NEW】角巻わため ★今日の20時から★ (デビュー)
 
 [2019/12/29]:https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO
 - [![2019/12/30(月)サムネ](https://i.ytimg.com/vi/hj9RVNXrzKo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhgGCdDzc3WqoQsOMrxD8KBhCs_A)][2019/12/30]{:target="_blank"}
