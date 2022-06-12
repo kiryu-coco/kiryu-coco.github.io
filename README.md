@@ -5,7 +5,6 @@
 - 2019/12/29(日) [【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】][2019/12/29]
 
 [2019/12/29]:https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO
-
 	- 【クソダサ速報】天使Aさん 初配信をパワーポイントで行う
 	- N氏「まつりかな(ピース)」 (「一番恐ろしい先輩は誰ですか？」に対して) 
 	- (ホロライブ公式) 痛恨のスペリングミス
@@ -14,7 +13,6 @@
 - 2019/12/30(月) [【#桐生ココ】あさココLIVEニュース！12/30【#ココここ】][2019/12/30]
 
 [2019/12/30]:https://www.youtube.com/watch?v=hj9RVNXrzKo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=2
-
 	- 【事件】速報音で視聴者の耳を破壊
 	- 【クソダサ】某天使Aさん 超高級ペイントソフトをメモ帳として使う
 	- 【クソダサ速報】パワーポイントは裏切らない
@@ -27,7 +25,6 @@
 - 2019/12/31(火) [【#桐生ココ】あさココLIVEニュース！12/31【#ココここ】][2019/12/31]
 
 [2019/12/31]:https://www.youtube.com/watch?v=C-4FQD3d_Ps&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=3
-
 	- ホロライブ4期生3名、怒られる
 	- 【悲報】ココ氏、コラボに向かない
 		- 4期生「必ず switch を買ってください」
@@ -44,7 +41,6 @@
 - 2020/01/01(水) [【#桐生ココ】あさココLIVEニュース！1/1【#ココここ】][2020/01/01]
 
 [2020/01/01]:https://www.youtube.com/watch?v=Trz-Ur8eRaI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=4
-
 	- 【訃報】10万人達成ならず、夏色まつり氏犠牲に
 	- 【クソザコ速報】(角巻わため氏) 雑談放送中に4回の回線切断
 		- LIVE中継 「クソザコ回線ひつじ」こと角巻わため容疑者
@@ -59,7 +55,6 @@
 - 2020/01/03(金) [【#桐生ココ】あさココLIVEニュース！1/3【#ココここ】][2020/01/03]
 
 [2020/01/03]:https://www.youtube.com/watch?v=uyd2Oi0RfXA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=5
-
 	- 【クソザコ速報】(角巻わため氏) 全ての責任をOBSになすりつける
 		- (一回の生放送で61回も回線を落とす世界記録を達成)
 	- 【くそ】クソザコ毛玉 角巻わため、またやらかす
@@ -78,7 +73,6 @@
 - 2020/01/04(土) [【#桐生ココ】あさココLIVEニュース！1/4【#ココここ】][2020/01/04]
 
 [2020/01/04]:https://www.youtube.com/watch?v=9Ib7RAR_2iE&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=6
-
 	- (チャンネル登録者7万人達成)
 	- 【NEW】(桐生ココ氏) 本日でデビュー1週間経過
 		- (有識者Cさん(3500)) 登録者100万人達成時に後方彼氏面する権利を与える
@@ -97,7 +91,6 @@
 - 2020/01/05(日) [【#桐生ココ】あさココLIVEニュース！1/5【#ココここ】][2020/01/05]
 
 [2020/01/05]:https://www.youtube.com/watch?v=LVLYoQPMj1U&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=8
-
 	- 【NEW】(H森さん(0)) 初配信無音スタート、そっとtake2
 	- 【NEW】桐生ココ氏、ずっと口開いてる
 	- 【クソザコ】(角巻わため 容疑者) 12回/57:44
@@ -110,7 +103,6 @@
 - 2020/01/06(月) [【#桐生ココ】あさココLIVEニュース！1/6【#ココここ】][2020/01/06]
 
 [2020/01/06]:https://www.youtube.com/watch?v=rSCDDD4l8po&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=7
-
 	- 【NEW】(自称小悪魔Tさん) これからも(C氏を)便所扱いすると宣言
 	- 赤井はあと氏休止 (フィリピン留学)
 		- ホロライブを良く知るCさん
@@ -130,7 +122,6 @@
 - 2020/01/07(火) [【#桐生ココ】あさココLIVEニュース！1/7【#ココここ】][2020/01/07]
 
 [2020/01/07]:https://www.youtube.com/watch?v=kpDocyEObpc&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=10
-
 	- 【悲報】桐生ココ氏、怒られない
 		- マネージャーから「会長」と呼ばれる
 		- 視聴者コメンテーター
@@ -144,7 +135,6 @@
 - 2020/01/08(水) [【#桐生ココ】あさココLIVEニュース！1/8【#ココここ】][2020/01/08]
 
 [2020/01/08]:https://www.youtube.com/watch?v=Za53d148Qe4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=9
-
 	- C氏のTwitterにガサ入れ、一時停止に
 		- (天使警察による)ガサ入れ時の音声(プライバシーのため加工してあります)
 			- わため逃げろ
@@ -172,7 +162,6 @@
 - 2020/01/09(木) [【#桐生ココ】あさココLIVEニュース！1/9【#ココここ】][2020/01/09]
 
 [2020/01/09]:https://www.youtube.com/watch?v=fT5LVs-vO14&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=11
-
 	- KSZK 13回
 	- 90,000 subs!!! (チャンネル登録者9万人突破)
 	- 【NEW】初めてのオフ飯 (角巻わため、桐生ココ、天音かなた)
@@ -196,7 +185,6 @@
 - 2020/01/10(金) [【#桐生ココ】あさココLIVEニュース！1/10【#ココここ】][2020/01/10]
 
 [2020/01/10]:https://www.youtube.com/watch?v=RLIO0XT6vQI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=12
-
 	- (毛玉) 14回
 	- 【NEW】(「PPは裏切らない」天音かなた氏) 先日23時より、パワポ雑談を配信
 		- 開始1分でパワポに裏切られる
@@ -218,7 +206,6 @@
 - 2020/01/13(月) [【#桐生ココ】あさココLIVEニュース！1/13【#ココここ】][2020/01/13]
 
 [2020/01/13]:https://www.youtube.com/watch?v=ZEmSoGwHIX0&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=13
-
 	- 100,000 subs!! (チャンネル登録者10万人突破)
 		- おむつを着けた汚ねぇじじどもが一緒に哺乳瓶で詫びミルクを飲むという最悪の瞬間に10万人達成
 		- (視聴者からの情報) 中国の新年は1/25、よって目標達成
@@ -246,7 +233,6 @@
 - 2020/01/14(火) [【#桐生ココ】あさココLIVEニュース！1/14【#ココここ】][2020/01/14]
 
 [2020/01/14]:https://www.youtube.com/watch?v=ptsD3SUacww&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=14
-
 	- 【NEW】THANK YOU 110,000 subs! (チャンネル登録者11万人突破)
 	- 【事件】(天音かなた氏の twitter で4期生の集合写真)
 		- 舞台の裏では地獄のような事が …
@@ -273,7 +259,6 @@
 - 2020/01/15(水) [【#桐生ココ】あさココLIVEニュース！1/15【#ココここ】][2020/01/15]
 
 [2020/01/15]:https://www.youtube.com/watch?v=g0s8gtKpjaM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=15
-
 	- 【NEW】(桐生ココ氏(3500)) 深夜に突然視聴者を便所扱い
 		- (マインクラフトであまりにも和風な家を作ってしまい、深夜に突然5分にも満たない生配信)
 		- 勝手に家を見せつける配信を始め勝手にスッキリして終了
@@ -300,7 +285,6 @@
 - 2020/01/16(木) [ 【#桐生ココ】あさココLIVEニュース！1/16【#ココここ】][2020/01/16]
 
 [2020/01/16]:https://www.youtube.com/watch?v=4AuamZPL3Ro&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=16
-
 	- 【クソザコ速報】(桐生ココ氏(3500)) 1時間予定のホラゲ、開始10分で終了
 		- 焦って雑談に切り替えクソつまらねぇ話を50分
 		- (有識者Cさん(3500)) 1人でしゃべり1人で笑うオタク特有の話し方 これは見ていられない
@@ -331,7 +315,6 @@
 - 2020/01/17(金) [【#桐生ココ】あさココLIVEニュース！1/17【#ココここ】][2020/01/17]
 
 [2020/01/17]:https://www.youtube.com/watch?v=g09XoDfswZo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=18
-
 	- 【NEW】(桐生ココ氏) 海外ニキからpotty mouthと認識される
 		- (potty: 子供用の便所)
 	- 【悲報】C氏の押し(推し)マーク、使用率低すぎ問題
@@ -361,7 +344,6 @@
 - 2020/01/20(月) [【#桐生ココ】あさココLIVEニュース！1/20【#ココここ】][2020/01/20]
 
 [2020/01/20]:https://www.youtube.com/watch?v=bHX-HtWZ_OA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=19
-
 	- (放送事故: 西成じじい)
 	- 【クソザコ速報】(天音かなた氏) 寝坊して配信に50分遅刻
 		- (14:00 から始まるはずの魔界村の配信、天音氏「ぐっすりでした」)
@@ -391,7 +373,6 @@
 - 2020/01/21(火) [【#桐生ココ】あさココLIVEニュース！1/21【#ココここ】][2020/01/21]
 
 [2020/01/21]:https://www.youtube.com/watch?v=3k1L5_tot5U&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=17
-
 	- 【NEW】THANKS 120,000 subs! (チャンネル登録者12万人突破)
 		- (実はこのニュースは昨日やろうと思って時間が無くて仕方がなかった)
 	- 【疑惑】桐生ココ、ガチ恋ファン1人もいない説
@@ -424,7 +405,6 @@
 - 2020/01/22(水) [【#桐生ココ】あさココLIVEニュース！1/22【#ココここ】][2020/01/22]
 
 [2020/01/22]:https://www.youtube.com/watch?v=0Ys96IZPTUI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=20
-
 	- 【NEW】(桐生Cコ氏(3500)) ついにやらかす
 		- 天使にSMクラブについて説明中言ってはいけない言葉を口走る
 		- 放送終了後編集のため即非公開に
@@ -460,7 +440,6 @@
 - 2020/01/24(金) [【#桐生ココ】あさココLIVEニュース！1/24【#ココここ】][2020/01/24]
 
 [2020/01/24]:https://www.youtube.com/watch?v=i6fEDcN_tHI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=21
-
 	- 【悲報】700人以上エアあさココをキメる
 		- 何かに草を生やしている様子
 		- (有識者Cさん(3500)) 正気の沙汰ではない
@@ -494,7 +473,6 @@
 - 2020/01/27(月) [【#桐生ココ】あさココLIVEニュース！1/27【#ココここ】][2020/01/27]
 
 [2020/01/27]:https://www.youtube.com/watch?v=nqWNVpcuSLA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=22
-
 	- 【NEW】Thanks! 140,000subs!! (チャンネル登録者14万人突破)
 	- 【NEW】(夏色まつり氏) ライブ当日に収益化はく奪
 		- (桐生ココ氏) ガチンコ収益化RTA勝負、挑まれる！
@@ -535,7 +513,6 @@
 - 2020/01/28(火) [【#桐生ココ】あさココLIVEニュース！1/28【#ココここ】][2020/01/28]
 
 [2020/01/28]:https://www.youtube.com/watch?v=G7zzkft-LgU&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=23
-
 	- 【記念日】(桐生ココ氏) 本日デビュー1か月記念日！
 		- Twitterにマシュマロを設置
 		- (マシュマロに) 罵詈雑言を期待するも、意外と平和
@@ -569,7 +546,6 @@
 - 2020/01/29(水) [【#桐生ココ】あさココLIVEニュース！1月29日【#ココここ】][2020/01/29]
 
 [2020/01/29]:https://www.youtube.com/watch?v=ZUOQvvba_Uo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=24
-
 	- (立てばアイドル、喋ればヤクザ、歩く姿は無収益)
 	- 【クソザコ速報】 (桐生ココ氏(3500)) 天使とのコラボ約束を忘れDB(ダブルブッキング)かます
 		- 1/29 20:00 (1/28 20:00) (配信予約)
@@ -612,7 +588,6 @@
 - 2020/01/30(木) [【#桐生ココ】あさココLIVEニュース！1月30日【#ココここ】][2020/01/30]
 
 [2020/01/30]:https://www.youtube.com/watch?v=KDz-qX8pcSE&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=25
-
 	- 【NEW】THANK YOU 150,000subs! (チャンネル登録者15万人突破)
 	- 【クソザコ大速報】(製薬会社アキビュー代表 アキ・ローゼンタール氏) ARKサーバー入場に21時間、記録更新
 		- (桐生Cコ氏(3500)) そもそも伝えるパスを間違えていた
@@ -648,7 +623,6 @@
 - 2020/01/31(金) [【#桐生ココ】あさココLIVEニュース！1月31日【#ココここ】][2020/01/31]
 
 [2020/01/31]:https://www.youtube.com/watch?v=dmAoZ-aw8XI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=26
-
 	- (頭の上で「ガタガタ」はしゃいでいるのが今日の視聴者コメンテーターのみなさんです)
 	- 【クソダサ速報】PP天使のフリー素材、既読スルー
 		- (水曜日17:45 天音かなた氏が 4 期生の discord に「フリー素材！！自由に着ていいよ」などとしてTシャツの画像を投稿して以降会話が止まる)
@@ -696,7 +670,6 @@
 - 2020/02/03(月) [【#桐生ココ】あさココLIVEニュース！2月3日【#ココここ】][2020/02/03]
 
 [2020/02/03]:https://www.youtube.com/watch?v=-DlXxPiDEWk&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=27
-
 	- 【NEW】THANKS!! 160,000subs!!(チャンネル登録者16万人突破)
 	- 【朗報】ホロライブの先輩方、みんな収益化復活！
 		- (The Quartering 氏) 海外ニキ、ホロ収益剝奪の事態を拡散
@@ -724,7 +697,6 @@
 - 2020/02/04(火) [【#桐生ココ】あさココLIVEニュース！2月4日【#ココここ】][2020/02/04]
 
 [2020/02/04]:https://www.youtube.com/watch?v=hrTR9VzKWXs&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=28
-
 	- (ここはにしなり)
 	- 【悲報】(ホロライブ専門プロ視聴者)「ARK配信多すぎて追いきれない」
 		- (2/3ホロライブのスケジュール(ホロジュール))
@@ -766,7 +738,6 @@
 - 2020/02/05(水) [【#桐生ココ】あさココLIVEニュース！2月5日【#ココここ】][2020/02/05]
 
 [2020/02/05]:https://www.youtube.com/watch?v=vyG3OXVp888&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=29
-
 	- 【廃人速報】(湊Aくあ氏) 廃人過ぎて日付感覚消失 (※ARK歴1週間)
 		- (ARKとは) ホロライブ内で廃人を生産している問題作
 		- (管理人C氏(3500)) 組織の金で専用サーバーを設立
@@ -805,7 +776,6 @@
 - 2020/02/06(木) [【#桐生ココ】あさココLIVEニュース！2月6日【#ココここ】][2020/02/06]
 
 [2020/02/06]:https://www.youtube.com/watch?v=MfBXNaKSgpI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=30
-
 	- 【NEW】THANKS! 170,000subs!! (チャンネル登録者17万人突破)
 	- 【NEW】(桐生ココ氏) PP天使に奢り、ケジメ付ける
 		- ((既報) ココ氏 天使とのコラボ約束を忘れダブルブッキング)
@@ -840,7 +810,6 @@
 - 2020/02/07(金) [【#桐生ココ】あさココLIVEニュース！2月7日【#ココここ】][2020/02/07]
 
 [2020/02/07]:https://www.youtube.com/watch?v=zzf8HYuGoQg&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=31
-
 	- 【疑惑】(天音Kなた氏) 「オウムになったら即終了配信」
 		- 26秒で終了なのではないか？
 			- わため：ドドドへい？ドドドへい
@@ -881,7 +850,6 @@
 - 2020/02/10(月) [【#桐生ココ】あさココLIVEニュース！2月10日【#ココここ】][2020/02/10]
 
 [2020/02/10]:https://www.youtube.com/watch?v=Yeup6caQk1M&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=32
-
 	- 【NEW】THANKS!180,000subs! (チャンネル登録者18万人突破)
 	- 【NEW】桐生ココch,やっと収益化！
 		- PP天使収益化により無収益0人に (最後に滑り込み収益化 天音かなた氏) 
@@ -932,7 +900,6 @@
 - 2020/02/11(火) [【#桐生ココ】あさココLIVEニュース！2月11日【#ココここ】][2020/02/11]
 
 [2020/02/11]:https://www.youtube.com/watch?v=RkXd__Sd0OM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=33
-
 	- (放送事故(ミュート))
 	- 【NEW】streamlabs導入話何処へ
 		- (マネジャー) 2020/01/19 … 谷郷さんにも話して導入する方向で進んでいます！ 早かったら来週あたりでしょうか。
@@ -973,7 +940,6 @@
 - 2020/02/12(水) [【#桐生ココ】あさココLIVEニュース！2月12日【#ココここ】][2020/02/12]
 
 [2020/02/12]:https://www.youtube.com/watch?v=TvMh4B4NQX8&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=34
-
 	- 【NEW】THANKS!190,000subs!! (チャンネル登録者19万人突破)
 	- 【NEW】(#祝桐生ココ収益化) 世界のトレンド1位(一時的)
 		- スパチャスプラッシュを初体験
