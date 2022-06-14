@@ -1344,12 +1344,16 @@
 	- (放送事故: ブラックアウト)
 		- (あっ、最後のメッセージ書くの忘れてたー)
 
+[2020/02/25]:https://www.youtube.com/watch?v=MQ7-28plUVQ&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=43
+- [![2020/02/25(火)サムネ](https://i.ytimg.com/vi/MQ7-28plUVQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgDrkJCyCVNi_gqPJ6mJesrg_J9g)][2020/02/25]{:target="_blank"}
+- 2020/02/25(火) [【#桐生ココ】あさココLIVEニュース！2月25日【#ココここ】][2020/02/25]{:target="_blank"}
+
 <!--
-[2020/02/24]:
-- [![2020/02/24(月)サムネ](
+[2020/02/25]:
+- [![2020/02/25(火)サムネ](
 
-)][2020/02/24]{:target="_blank"}
-- 2020/02/24(月) [
+)][2020/02/25]{:target="_blank"}
+- 2020/02/25(火) [
 
-][2020/02/24]{:target="_blank"}
+][2020/02/25]{:target="_blank"}
 -->
