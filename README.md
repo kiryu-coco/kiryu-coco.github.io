@@ -1401,15 +1401,15 @@
 - [![2020/02/26(水)サムネ](https://i.ytimg.com/vi/5E9RJNtSk8U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDj62oRyDWWzL_Mwv75rHPBBVRiVA)][2020/02/26]{:target="_blank"}
 - 2020/02/26(水) [【#桐生ココ】あさココLIVEニュース！2月26日【#ココここ】][2020/02/26]{:target="_blank"}
 	- THANKS 220,000subs!! (チャンネル登録者22万人突破)
-	- 【NEW】(赤井はあと氏配信の英語テスト) 問題
+	- 【NEW】(赤井はあと氏配信の英語テスト) 問題 (解答者：天音かなた、常闇トワ)
 		- (視聴者から沢山のリーク)
 			- (8) 悪魔と天使、どっちが天才ですか
 			- (はあと氏) 回答：Which one is the genius, Towa or Kabaya?
-		- (ココ氏が本当にヤバイと思ったのは)
+		- (ココ氏が本当にヤバイと思った問題)
 			- (1) What's wrong with you
 			- (はあと氏) 回答：どうしたの？
 			- ((ココ氏) "What's wrong with you" は「どうしたの？」という意味ではない)
-			- A.頭おかしいんじゃねーの？
+			- (ココ氏回答) A.頭おかしいんじゃねーの？
 		- (会長のミニ英語教室)
 			- What's wrong with you?
 				- どうしたお前？
