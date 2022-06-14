@@ -1404,10 +1404,10 @@
 	- 【NEW】(赤井はあと氏配信の英語テスト) 問題
 		- (視聴者から沢山のリーク)
 			- (8) 悪魔と天使、どっちが天才ですか
-			- 回答：Which one is the genius, Towa or Kabaya?
+			- (はあと氏) 回答：Which one is the genius, Towa or Kabaya?
 		- (ココ氏が本当にヤバイと思ったのは)
 			- (1) What's wrong with you
-			- 回答：どうしたの？
+			- (はあと氏) 回答：どうしたの？
 			- ((ココ氏) "What's wrong with you" は「どうしたの？」という意味ではない)
 			- A.頭おかしいんじゃねーの？
 		- (会長のミニ英語教室)
