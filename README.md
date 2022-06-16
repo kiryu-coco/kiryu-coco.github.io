@@ -3,7 +3,7 @@
 ### [(github)](https://github.com/kiryu-coco/kiryu-coco.github.io){:target="_blank" rel="noreferrer noopener"} [(github pages)](https://kiryu-coco.github.io){:target="_blank" rel="noreferrer noopener"}
 
 [2019/12/29]:https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=1
-### [![2019/12/29THUMBNAIL](https://i.ytimg.com/vi/6Y8cEnbk1I4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1rMVZnhj9V7sltSXBV4TuDBCFcg){:style="vertical-align: middle;"} 【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】][2019/12/29]{:target="_blank" rel="noreferrer noopener"}
+### [![2019/12/29THUMBNAIL](https://i.ytimg.com/vi/6Y8cEnbk1I4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1rMVZnhj9V7sltSXBV4TuDBCFcg) 【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】][2019/12/29]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2019/12/29(日)</summary>
 <pre>
@@ -29,7 +29,7 @@
 <br>
 
 [2019/12/30]:https://www.youtube.com/watch?v=hj9RVNXrzKo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=2
-### [![2019/12/30THUMBNAIL](https://i.ytimg.com/vi/hj9RVNXrzKo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhgGCdDzc3WqoQsOMrxD8KBhCs_A){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！12/30【#ココここ】][2019/12/30]{:target="_blank" rel="noreferrer noopener"}
+### [![2019/12/30THUMBNAIL](https://i.ytimg.com/vi/hj9RVNXrzKo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhgGCdDzc3WqoQsOMrxD8KBhCs_A) 【#桐生ココ】あさココLIVEニュース！12/30【#ココここ】][2019/12/30]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2019/12/30(月)</summary>
 <pre>
@@ -59,7 +59,7 @@
 <br>
 
 [2019/12/31]:https://www.youtube.com/watch?v=C-4FQD3d_Ps&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=3
-### [![2019/12/31THUMBNAIL](https://i.ytimg.com/vi/C-4FQD3d_Ps/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBf1XTJOC97Y4SAEj1-PYwrRSHAPA){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！12/31【#ココここ】][2019/12/31]{:target="_blank" rel="noreferrer noopener"}
+### [![2019/12/31THUMBNAIL](https://i.ytimg.com/vi/C-4FQD3d_Ps/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBf1XTJOC97Y4SAEj1-PYwrRSHAPA) 【#桐生ココ】あさココLIVEニュース！12/31【#ココここ】][2019/12/31]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2019/12/31(火)</summary>
 <pre>
@@ -81,7 +81,7 @@
 <br>
 
 [2020/01/01]:https://www.youtube.com/watch?v=Trz-Ur8eRaI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=4
-### [![2020/01/01THUMBNAIL](https://i.ytimg.com/vi/Trz-Ur8eRaI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7ZjeHrrPvuXQW0BU6-9qMDcNXkQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/1【#ココここ】][2020/01/01]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/01THUMBNAIL](https://i.ytimg.com/vi/Trz-Ur8eRaI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD7ZjeHrrPvuXQW0BU6-9qMDcNXkQ) 【#桐生ココ】あさココLIVEニュース！1/1【#ココここ】][2020/01/01]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/01(水)</summary>
 <pre>
@@ -101,7 +101,7 @@
 <br>
 
 [2020/01/03]:https://www.youtube.com/watch?v=uyd2Oi0RfXA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=5
-### [![2020/01/03THUMBNAIL](https://i.ytimg.com/vi/uyd2Oi0RfXA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-ABVrohD7FZdpsVS20eDgvaQFQA){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/3【#ココここ】][2020/01/03]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/03THUMBNAIL](https://i.ytimg.com/vi/uyd2Oi0RfXA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-ABVrohD7FZdpsVS20eDgvaQFQA) 【#桐生ココ】あさココLIVEニュース！1/3【#ココここ】][2020/01/03]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/03(金)</summary>
 <pre>
@@ -124,7 +124,7 @@
 <br>
 
 [2020/01/04]:https://www.youtube.com/watch?v=9Ib7RAR_2iE&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=6
-### [![2020/01/04THUMBNAIL](https://i.ytimg.com/vi/9Ib7RAR_2iE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGTlP26QaitMjOkggK5F-xCEqv1w){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/4【#ココここ】][2020/01/04]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/04THUMBNAIL](https://i.ytimg.com/vi/9Ib7RAR_2iE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBGTlP26QaitMjOkggK5F-xCEqv1w) 【#桐生ココ】あさココLIVEニュース！1/4【#ココここ】][2020/01/04]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/04(土)</summary>
 <pre>
@@ -148,7 +148,7 @@
 <br>
 
 [2020/01/05]:https://www.youtube.com/watch?v=LVLYoQPMj1U&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=8
-### [![2020/01/05THUMBNAIL](https://i.ytimg.com/vi/LVLYoQPMj1U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBFSUKrzqIof-sl66VHJmup0qCWdQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/5【#ココここ】][2020/01/05]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/05THUMBNAIL](https://i.ytimg.com/vi/LVLYoQPMj1U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBFSUKrzqIof-sl66VHJmup0qCWdQ) 【#桐生ココ】あさココLIVEニュース！1/5【#ココここ】][2020/01/05]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/05(日)</summary>
 <pre>
@@ -166,7 +166,7 @@
 <br>
 
 [2020/01/06]:https://www.youtube.com/watch?v=rSCDDD4l8po&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=7
-### [![2020/01/06THUMBNAIL](https://i.ytimg.com/vi/rSCDDD4l8po/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYPuw3_IwpalqU3S3Dt9v55gIMIQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/6【#ココここ】][2020/01/06]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/06THUMBNAIL](https://i.ytimg.com/vi/rSCDDD4l8po/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYPuw3_IwpalqU3S3Dt9v55gIMIQ) 【#桐生ココ】あさココLIVEニュース！1/6【#ココここ】][2020/01/06]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/06(月)</summary>
 <pre>
@@ -191,7 +191,7 @@
 <br>
 
 [2020/01/07]:https://www.youtube.com/watch?v=kpDocyEObpc&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=10
-### [![2020/01/07THUMBNAIL](https://i.ytimg.com/vi/kpDocyEObpc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDn0PA4D20r7ciTjXEK1tqW0wCDkg){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/7【#ココここ】][2020/01/07]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/07THUMBNAIL](https://i.ytimg.com/vi/kpDocyEObpc/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDn0PA4D20r7ciTjXEK1tqW0wCDkg) 【#桐生ココ】あさココLIVEニュース！1/7【#ココここ】][2020/01/07]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/07(火)</summary>
 <pre>
@@ -210,7 +210,7 @@
 <br>
 
 [2020/01/08]:https://www.youtube.com/watch?v=Za53d148Qe4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=9
-### [![2020/01/08THUMBNAIL](https://i.ytimg.com/vi/Za53d148Qe4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALnNe682zUO0I0UtSbrGROLNwDqQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/8【#ココここ】][2020/01/08]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/08THUMBNAIL](https://i.ytimg.com/vi/Za53d148Qe4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLALnNe682zUO0I0UtSbrGROLNwDqQ) 【#桐生ココ】あさココLIVEニュース！1/8【#ココここ】][2020/01/08]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/08(水)</summary>
 <pre>
@@ -243,7 +243,7 @@
 <br>
 
 [2020/01/09]:https://www.youtube.com/watch?v=fT5LVs-vO14&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=11
-### [![2020/01/09THUMBNAIL](https://i.ytimg.com/vi/fT5LVs-vO14/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhH1_jouyOm74XtkgLoCcAuYsNSA){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/9【#ココここ】][2020/01/09]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/09THUMBNAIL](https://i.ytimg.com/vi/fT5LVs-vO14/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDhH1_jouyOm74XtkgLoCcAuYsNSA) 【#桐生ココ】あさココLIVEニュース！1/9【#ココここ】][2020/01/09]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/09(木)</summary>
 <pre>
@@ -272,7 +272,7 @@
 <br>
 
 [2020/01/10]:https://www.youtube.com/watch?v=RLIO0XT6vQI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=12
-### [![2020/01/10THUMBNAIL](https://i.ytimg.com/vi/RLIO0XT6vQI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD23QWrNPc3HoXuPv1PA2m1O-zdfw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/10【#ココここ】][2020/01/10]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/10THUMBNAIL](https://i.ytimg.com/vi/RLIO0XT6vQI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD23QWrNPc3HoXuPv1PA2m1O-zdfw) 【#桐生ココ】あさココLIVEニュース！1/10【#ココここ】][2020/01/10]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/10(金)</summary>
 <pre>
@@ -299,7 +299,7 @@
 <br>
 
 [2020/01/13]:https://www.youtube.com/watch?v=ZEmSoGwHIX0&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=13
-### [![2020/01/13THUMBNAIL](https://i.ytimg.com/vi/ZEmSoGwHIX0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFGnFfIxPJDC5cHjzTc5MwpJDaOg){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/13【#ココここ】][2020/01/13]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/13THUMBNAIL](https://i.ytimg.com/vi/ZEmSoGwHIX0/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCFGnFfIxPJDC5cHjzTc5MwpJDaOg) 【#桐生ココ】あさココLIVEニュース！1/13【#ココここ】][2020/01/13]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/13(月)</summary>
 <pre>
@@ -332,7 +332,7 @@
 <br>
 
 [2020/01/14]:https://www.youtube.com/watch?v=ptsD3SUacww&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=14
-### [![2020/01/14THUMBNAIL](https://i.ytimg.com/vi/ptsD3SUacww/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1Oy__1FtMoVGhnNjWqkfRsJ7Atw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/14【#ココここ】][2020/01/14]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/14THUMBNAIL](https://i.ytimg.com/vi/ptsD3SUacww/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB1Oy__1FtMoVGhnNjWqkfRsJ7Atw) 【#桐生ココ】あさココLIVEニュース！1/14【#ココここ】][2020/01/14]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/14(火)</summary>
 <pre>
@@ -364,7 +364,7 @@
 <br>
 
 [2020/01/15]:https://www.youtube.com/watch?v=g0s8gtKpjaM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=15
-### [![2020/01/15THUMBNAIL](https://i.ytimg.com/vi/g0s8gtKpjaM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDGGQl7wR2Kqq8IV5veDC9zlL2k4g){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/15【#ココここ】][2020/01/15]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/15THUMBNAIL](https://i.ytimg.com/vi/g0s8gtKpjaM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDGGQl7wR2Kqq8IV5veDC9zlL2k4g) 【#桐生ココ】あさココLIVEニュース！1/15【#ココここ】][2020/01/15]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/15(水)</summary>
 <pre>
@@ -396,7 +396,7 @@
 <br>
 
 [2020/01/16]:https://www.youtube.com/watch?v=4AuamZPL3Ro&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=16
-### [![2020/01/16THUMBNAIL](https://i.ytimg.com/vi/4AuamZPL3Ro/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4LTAIB0VtE3MQJxMq99EoWmk0yw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/16【#ココここ】][2020/01/16]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/16THUMBNAIL](https://i.ytimg.com/vi/4AuamZPL3Ro/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4LTAIB0VtE3MQJxMq99EoWmk0yw) 【#桐生ココ】あさココLIVEニュース！1/16【#ココここ】][2020/01/16]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/16(木)</summary>
 <pre>
@@ -432,7 +432,7 @@
 <br>
 
 [2020/01/17]:https://www.youtube.com/watch?v=g09XoDfswZo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=18
-### [![2020/01/17THUMBNAIL](https://i.ytimg.com/vi/g09XoDfswZo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZjExMnLzCdw-sjKwHQv57Yt75iw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/17【#ココここ】][2020/01/17]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/17THUMBNAIL](https://i.ytimg.com/vi/g09XoDfswZo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAZjExMnLzCdw-sjKwHQv57Yt75iw) 【#桐生ココ】あさココLIVEニュース！1/17【#ココここ】][2020/01/17]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/17(金)</summary>
 <pre>
@@ -467,7 +467,7 @@
 <br>
 
 [2020/01/20]:https://www.youtube.com/watch?v=bHX-HtWZ_OA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=19
-### [![2020/01/20THUMBNAIL](https://i.ytimg.com/vi/bHX-HtWZ_OA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdoS7ekTwWZg_MsRdL-E4eV38tCA){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/20【#ココここ】][2020/01/20]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/20THUMBNAIL](https://i.ytimg.com/vi/bHX-HtWZ_OA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDdoS7ekTwWZg_MsRdL-E4eV38tCA) 【#桐生ココ】あさココLIVEニュース！1/20【#ココここ】][2020/01/20]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/20(月)</summary>
 <pre>
@@ -502,7 +502,7 @@
 <br>
 
 [2020/01/21]:https://www.youtube.com/watch?v=3k1L5_tot5U&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=17
-### [![2020/01/21THUMBNAIL](https://i.ytimg.com/vi/3k1L5_tot5U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjIxopZFHZOftvphh8Kj4hp6aF6w){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/21【#ココここ】][2020/01/21]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/21THUMBNAIL](https://i.ytimg.com/vi/3k1L5_tot5U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCjIxopZFHZOftvphh8Kj4hp6aF6w) 【#桐生ココ】あさココLIVEニュース！1/21【#ココここ】][2020/01/21]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/21(火)</summary>
 <pre>
@@ -540,7 +540,7 @@
 <br>
 
 [2020/01/22]:https://www.youtube.com/watch?v=0Ys96IZPTUI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=20
-### [![2020/01/22THUMBNAIL](https://i.ytimg.com/vi/0Ys96IZPTUI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBs9FWbVMuR8uutcMTWCYT0JRYDEw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/22【#ココここ】][2020/01/22]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/22THUMBNAIL](https://i.ytimg.com/vi/0Ys96IZPTUI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBs9FWbVMuR8uutcMTWCYT0JRYDEw) 【#桐生ココ】あさココLIVEニュース！1/22【#ココここ】][2020/01/22]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/22(水)</summary>
 <pre>
@@ -581,7 +581,7 @@
 <br>
 
 [2020/01/24]:https://www.youtube.com/watch?v=i6fEDcN_tHI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=21
-### [![2020/01/24THUMBNAIL](https://i.ytimg.com/vi/i6fEDcN_tHI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoGGU7-mQ8P5j_ICx7kQ2A50Y7dQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/24【#ココここ】][2020/01/24]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/24THUMBNAIL](https://i.ytimg.com/vi/i6fEDcN_tHI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBoGGU7-mQ8P5j_ICx7kQ2A50Y7dQ) 【#桐生ココ】あさココLIVEニュース！1/24【#ココここ】][2020/01/24]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/24(金)</summary>
 <pre>
@@ -620,7 +620,7 @@
 <br>
 
 [2020/01/27]:https://www.youtube.com/watch?v=nqWNVpcuSLA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=22
-### [![2020/01/27THUMBNAIL](https://i.ytimg.com/vi/nqWNVpcuSLA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4_km1kZ2EeL0_-jMFxov1RX5BZw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/27【#ココここ】][2020/01/27]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/27THUMBNAIL](https://i.ytimg.com/vi/nqWNVpcuSLA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA4_km1kZ2EeL0_-jMFxov1RX5BZw) 【#桐生ココ】あさココLIVEニュース！1/27【#ココここ】][2020/01/27]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/27(月)</summary>
 <pre>
@@ -666,7 +666,7 @@
 <br>
 
 [2020/01/28]:https://www.youtube.com/watch?v=G7zzkft-LgU&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=23
-### [![2020/01/28THUMBNAIL](https://i.ytimg.com/vi/G7zzkft-LgU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASYkY5oiYhtocZfC6iO2ckZQTm1Q){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1/28【#ココここ】][2020/01/28]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/28THUMBNAIL](https://i.ytimg.com/vi/G7zzkft-LgU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLASYkY5oiYhtocZfC6iO2ckZQTm1Q) 【#桐生ココ】あさココLIVEニュース！1/28【#ココここ】][2020/01/28]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/28(火)</summary>
 <pre>
@@ -705,7 +705,7 @@
 <br>
 
 [2020/01/29]:https://www.youtube.com/watch?v=ZUOQvvba_Uo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=24
-### [![2020/01/29THUMBNAIL](https://i.ytimg.com/vi/ZUOQvvba_Uo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCMafOXeKabIewQ0M2ADz3GTVn-Xg){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1月29日【#ココここ】][2020/01/29]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/29THUMBNAIL](https://i.ytimg.com/vi/ZUOQvvba_Uo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCMafOXeKabIewQ0M2ADz3GTVn-Xg) 【#桐生ココ】あさココLIVEニュース！1月29日【#ココここ】][2020/01/29]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/29(水)</summary>
 <pre>
@@ -753,7 +753,7 @@
 <br>
 
 [2020/01/30]:https://www.youtube.com/watch?v=KDz-qX8pcSE&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=25
-### [![2020/01/30THUMBNAIL](https://i.ytimg.com/vi/KDz-qX8pcSE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwH8GssKUQHMr5F78XuLxk0-FFAw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1月30日【#ココここ】][2020/01/30]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/30THUMBNAIL](https://i.ytimg.com/vi/KDz-qX8pcSE/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBwH8GssKUQHMr5F78XuLxk0-FFAw) 【#桐生ココ】あさココLIVEニュース！1月30日【#ココここ】][2020/01/30]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/30(木)</summary>
 <pre>
@@ -794,7 +794,7 @@
 <br>
 
 [2020/01/31]:https://www.youtube.com/watch?v=dmAoZ-aw8XI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=26
-### [![2020/01/31THUMBNAIL](https://i.ytimg.com/vi/dmAoZ-aw8XI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYsb4Rw-YheIlU_GJC7S8IS5X6EQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！1月31日【#ココここ】][2020/01/31]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/01/31THUMBNAIL](https://i.ytimg.com/vi/dmAoZ-aw8XI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYsb4Rw-YheIlU_GJC7S8IS5X6EQ) 【#桐生ココ】あさココLIVEニュース！1月31日【#ココここ】][2020/01/31]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/01/31(金)</summary>
 <pre>
@@ -847,7 +847,7 @@
 <br>
 
 [2020/02/03]:https://www.youtube.com/watch?v=-DlXxPiDEWk&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=27
-### [![2020/02/03THUMBNAIL](https://i.ytimg.com/vi/-DlXxPiDEWk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBvCbU-yNOLRgeIeUh-tQMABvhqqQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月3日【#ココここ】][2020/02/03]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/03THUMBNAIL](https://i.ytimg.com/vi/-DlXxPiDEWk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBvCbU-yNOLRgeIeUh-tQMABvhqqQ) 【#桐生ココ】あさココLIVEニュース！2月3日【#ココここ】][2020/02/03]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/03(月)</summary>
 <pre>
@@ -880,7 +880,7 @@
 <br>
 
 [2020/02/04]:https://www.youtube.com/watch?v=hrTR9VzKWXs&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=28
-### [![2020/02/04THUMBNAIL](https://i.ytimg.com/vi/hrTR9VzKWXs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDH3DiB6P_YOjb0Muq3y1ft8FF9Xg){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月4日【#ココここ】][2020/02/04]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/04THUMBNAIL](https://i.ytimg.com/vi/hrTR9VzKWXs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDH3DiB6P_YOjb0Muq3y1ft8FF9Xg) 【#桐生ココ】あさココLIVEニュース！2月4日【#ココここ】][2020/02/04]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/04(火)</summary>
 <pre>
@@ -927,7 +927,7 @@
 <br>
 
 [2020/02/05]:https://www.youtube.com/watch?v=vyG3OXVp888&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=29
-### [![2020/02/05THUMBNAIL](https://i.ytimg.com/vi/vyG3OXVp888/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1bHhIy8TX0URU2ZOVIjUUN7PZvw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月5日【#ココここ】][2020/02/05]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/05THUMBNAIL](https://i.ytimg.com/vi/vyG3OXVp888/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC1bHhIy8TX0URU2ZOVIjUUN7PZvw) 【#桐生ココ】あさココLIVEニュース！2月5日【#ココここ】][2020/02/05]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/05(水)</summary>
 <pre>
@@ -971,7 +971,7 @@
 <br>
 
 [2020/02/06]:https://www.youtube.com/watch?v=MfBXNaKSgpI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=30
-### [![2020/02/06THUMBNAIL](https://i.ytimg.com/vi/MfBXNaKSgpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-7_YWeKsqlkdau3LOd9sTVDSGZQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月6日【#ココここ】][2020/02/06]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/06THUMBNAIL](https://i.ytimg.com/vi/MfBXNaKSgpI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA-7_YWeKsqlkdau3LOd9sTVDSGZQ) 【#桐生ココ】あさココLIVEニュース！2月6日【#ココここ】][2020/02/06]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/06(木)</summary>
 <pre>
@@ -1011,7 +1011,7 @@
 <br>
 
 [2020/02/07]:https://www.youtube.com/watch?v=zzf8HYuGoQg&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=31
-### [![2020/02/07THUMBNAIL](https://i.ytimg.com/vi/zzf8HYuGoQg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCT15_V8tlN3frdfhd9HRqGr5L0NA){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月7日【#ココここ】][2020/02/07]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/07THUMBNAIL](https://i.ytimg.com/vi/zzf8HYuGoQg/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLCT15_V8tlN3frdfhd9HRqGr5L0NA) 【#桐生ココ】あさココLIVEニュース！2月7日【#ココここ】][2020/02/07]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/07(金)</summary>
 <pre>
@@ -1057,7 +1057,7 @@
 <br>
 
 [2020/02/10]:https://www.youtube.com/watch?v=Yeup6caQk1M&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=32
-### [![2020/02/10THUMBNAIL](https://i.ytimg.com/vi/Yeup6caQk1M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFzV1FRO55ktZ2q9U9jmmMHaC_PQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月10日【#ココここ】][2020/02/10]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/10THUMBNAIL](https://i.ytimg.com/vi/Yeup6caQk1M/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDFzV1FRO55ktZ2q9U9jmmMHaC_PQ) 【#桐生ココ】あさココLIVEニュース！2月10日【#ココここ】][2020/02/10]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/10(月)</summary>
 <pre>
@@ -1113,7 +1113,7 @@
 <br>
 
 [2020/02/11]:https://www.youtube.com/watch?v=RkXd__Sd0OM&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=33
-### [![2020/02/11THUMBNAIL](https://i.ytimg.com/vi/RkXd__Sd0OM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAF7SxHak-j6PbVnMo47YBtTKVL-Q){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月11日【#ココここ】][2020/02/11]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/11THUMBNAIL](https://i.ytimg.com/vi/RkXd__Sd0OM/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAF7SxHak-j6PbVnMo47YBtTKVL-Q) 【#桐生ココ】あさココLIVEニュース！2月11日【#ココここ】][2020/02/11]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/11(火)</summary>
 <pre>
@@ -1159,7 +1159,7 @@
 <br>
 
 [2020/02/12]:https://www.youtube.com/watch?v=TvMh4B4NQX8&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=34
-### [![2020/02/12THUMBNAIL](https://i.ytimg.com/vi/TvMh4B4NQX8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB24MwkyCB3hsItkpvmhz99mjeEkw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月12日【#ココここ】][2020/02/12]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/12THUMBNAIL](https://i.ytimg.com/vi/TvMh4B4NQX8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB24MwkyCB3hsItkpvmhz99mjeEkw) 【#桐生ココ】あさココLIVEニュース！2月12日【#ココここ】][2020/02/12]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/12(水)</summary>
 <pre>
@@ -1199,7 +1199,7 @@
 <br>
 
 [2020/02/13]:https://www.youtube.com/watch?v=9S0b3TivmDQ&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=35
-### [![2020/02/13THUMBNAIL](https://i.ytimg.com/vi/9S0b3TivmDQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_MSuDpBb-azzG5jbmgfl0tti_Lw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月13日【#ココここ】][2020/02/13]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/13THUMBNAIL](https://i.ytimg.com/vi/9S0b3TivmDQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLB_MSuDpBb-azzG5jbmgfl0tti_Lw) 【#桐生ココ】あさココLIVEニュース！2月13日【#ココここ】][2020/02/13]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/13(木)</summary>
 <pre>
@@ -1236,7 +1236,7 @@
 <br>
 
 [2020/02/14]:https://www.youtube.com/watch?v=0uwXV_ntcgU&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=36
-### [![2020/02/14THUMBNAIL](https://i.ytimg.com/vi/0uwXV_ntcgU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKd9Ds-LMVZTtF7pC4K_3XQeLxEQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月14日【#ココここ】][2020/02/14]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/14THUMBNAIL](https://i.ytimg.com/vi/0uwXV_ntcgU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDKd9Ds-LMVZTtF7pC4K_3XQeLxEQ) 【#桐生ココ】あさココLIVEニュース！2月14日【#ココここ】][2020/02/14]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/14(金)</summary>
 <pre>
@@ -1290,7 +1290,7 @@
 <br>
 
 [2020/02/17]:https://www.youtube.com/watch?v=A95H2M4MbGo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=37
-### [![2020/02/17THUMBNAIL](https://i.ytimg.com/vi/A95H2M4MbGo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVyAdNb2-AuAUpir1ebwpF2MOZdQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月17日【#ココここ】][2020/02/17]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/17THUMBNAIL](https://i.ytimg.com/vi/A95H2M4MbGo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBVyAdNb2-AuAUpir1ebwpF2MOZdQ) 【#桐生ココ】あさココLIVEニュース！2月17日【#ココここ】][2020/02/17]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/17(月)</summary>
 <pre>
@@ -1333,7 +1333,7 @@
 <br>
 
 [2020/02/18]:https://www.youtube.com/watch?v=OijulL77BXw&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=38
-### [![2020/02/18THUMBNAIL](https://i.ytimg.com/vi/OijulL77BXw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD14kcqayeR_4rapp95mC9VhmBnzQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月18日【#ココここ】][2020/02/18]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/18THUMBNAIL](https://i.ytimg.com/vi/OijulL77BXw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD14kcqayeR_4rapp95mC9VhmBnzQ) 【#桐生ココ】あさココLIVEニュース！2月18日【#ココここ】][2020/02/18]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/18(火)</summary>
 <pre>
@@ -1385,7 +1385,7 @@
 <br>
 
 [2020/02/19]:https://www.youtube.com/watch?v=_iauGnvq8mk&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=39
-### [![2020/02/19THUMBNAIL](https://i.ytimg.com/vi/_iauGnvq8mk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBlqNmetCzNkBfxEry_0B4n4Djrkg){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月19日【#ココここ】][2020/02/19]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/19THUMBNAIL](https://i.ytimg.com/vi/_iauGnvq8mk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBlqNmetCzNkBfxEry_0B4n4Djrkg) 【#桐生ココ】あさココLIVEニュース！2月19日【#ココここ】][2020/02/19]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/19(水)</summary>
 <pre>
@@ -1433,7 +1433,7 @@
 <br>
 
 [2020/02/20]:https://www.youtube.com/watch?v=s5EadiiGaKw&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=40
-### [![2020/02/20THUMBNAIL](https://i.ytimg.com/vi/s5EadiiGaKw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBEYQwrp2L2XQoY0IK_v5bvIX7eiQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月20日【#ココここ】][2020/02/20]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/20THUMBNAIL](https://i.ytimg.com/vi/s5EadiiGaKw/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBEYQwrp2L2XQoY0IK_v5bvIX7eiQ) 【#桐生ココ】あさココLIVEニュース！2月20日【#ココここ】][2020/02/20]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/20(木)</summary>
 <pre>
@@ -1489,7 +1489,7 @@
 <br>
 
 [2020/02/21]:https://www.youtube.com/watch?v=BVSv0dlT_Yo&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=41
-### [![2020/02/21THUMBNAIL](https://i.ytimg.com/vi/BVSv0dlT_Yo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDq-Fsc4Gj0hpR27T-QiHRVtoWJhw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月21日【#ココここ】][2020/02/21]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/21THUMBNAIL](https://i.ytimg.com/vi/BVSv0dlT_Yo/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDq-Fsc4Gj0hpR27T-QiHRVtoWJhw) 【#桐生ココ】あさココLIVEニュース！2月21日【#ココここ】][2020/02/21]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/21(金)</summary>
 <pre>
@@ -1535,7 +1535,7 @@
 <br>
 
 [2020/02/24]:https://www.youtube.com/watch?v=ZE-j0-3YJX8&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=42
-### [![2020/02/24THUMBNAIL](https://i.ytimg.com/vi/ZE-j0-3YJX8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAa2TtFYIgWzPIikj3_4a9JBcJSxQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月24日【#ココここ】][2020/02/24]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/24THUMBNAIL](https://i.ytimg.com/vi/ZE-j0-3YJX8/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAa2TtFYIgWzPIikj3_4a9JBcJSxQ) 【#桐生ココ】あさココLIVEニュース！2月24日【#ココここ】][2020/02/24]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/24(月)</summary>
 <pre>
@@ -1597,7 +1597,7 @@
 <br>
 
 [2020/02/25]:https://www.youtube.com/watch?v=MQ7-28plUVQ&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=43
-### [![2020/02/25THUMBNAIL](https://i.ytimg.com/vi/MQ7-28plUVQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgDrkJCyCVNi_gqPJ6mJesrg_J9g){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月25日【#ココここ】][2020/02/25]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/25THUMBNAIL](https://i.ytimg.com/vi/MQ7-28plUVQ/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAgDrkJCyCVNi_gqPJ6mJesrg_J9g) 【#桐生ココ】あさココLIVEニュース！2月25日【#ココここ】][2020/02/25]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/25(火)</summary>
 <pre>
@@ -1656,7 +1656,7 @@
 <br>
 
 [2020/02/26]:https://www.youtube.com/watch?v=5E9RJNtSk8U&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=44
-### [![2020/02/26THUMBNAIL](https://i.ytimg.com/vi/5E9RJNtSk8U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDj62oRyDWWzL_Mwv75rHPBBVRiVA){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月26日【#ココここ】][2020/02/26]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/26THUMBNAIL](https://i.ytimg.com/vi/5E9RJNtSk8U/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDj62oRyDWWzL_Mwv75rHPBBVRiVA) 【#桐生ココ】あさココLIVEニュース！2月26日【#ココここ】][2020/02/26]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/26(水)</summary>
 <pre>
@@ -1719,7 +1719,7 @@
 <br>
 
 [2020/02/27]:https://www.youtube.com/watch?v=NwPUjto9j_Q&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=45
-### [![2020/02/27THUMBNAIL](https://i.ytimg.com/vi/NwPUjto9j_Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2x7rETT_Um-bMhQjI0Il0byRE8Q){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月27日【#ココここ】][2020/02/27]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/27THUMBNAIL](https://i.ytimg.com/vi/NwPUjto9j_Q/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD2x7rETT_Um-bMhQjI0Il0byRE8Q) 【#桐生ココ】あさココLIVEニュース！2月27日【#ココここ】][2020/02/27]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/27(木)</summary>
 <pre>
@@ -1778,7 +1778,7 @@
 <br>
 
 [2020/02/28]:https://www.youtube.com/watch?v=BDJcGH-FC3I&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=46
-### [![2020/02/28THUMBNAIL](https://i.ytimg.com/vi/BDJcGH-FC3I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDG5QDoo4MdCEnLeVCkB9xBYHhPjA){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！2月28日【#ココここ】][2020/02/28]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/02/28THUMBNAIL](https://i.ytimg.com/vi/BDJcGH-FC3I/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLDG5QDoo4MdCEnLeVCkB9xBYHhPjA) 【#桐生ココ】あさココLIVEニュース！2月28日【#ココここ】][2020/02/28]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/02/28(金)</summary>
 <pre>
@@ -1832,7 +1832,7 @@
 <br>
 
 [2020/03/02]:https://www.youtube.com/watch?v=EcuBRFN6eyk&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=47
-### [![2020/03/02THUMBNAIL](https://i.ytimg.com/vi/EcuBRFN6eyk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9zgej6_rykj6p6y_i1E_57z96XA){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！3月2日【#ココここ】][2020/03/02]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/03/02THUMBNAIL](https://i.ytimg.com/vi/EcuBRFN6eyk/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLD9zgej6_rykj6p6y_i1E_57z96XA) 【#桐生ココ】あさココLIVEニュース！3月2日【#ココここ】][2020/03/02]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/03/02(月)</summary>
 <pre>
@@ -1882,7 +1882,7 @@
 <br>
 
 [2020/03/03]:https://www.youtube.com/watch?v=eHVQX1gh3eA&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=48
-### [![2020/03/03THUMBNAIL](https://i.ytimg.com/vi/eHVQX1gh3eA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJMxpg6n-GXgQ7_9F5XhuO4m5-5w){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！3月3日【#ココここ】][2020/03/03]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/03/03THUMBNAIL](https://i.ytimg.com/vi/eHVQX1gh3eA/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAJMxpg6n-GXgQ7_9F5XhuO4m5-5w) 【#桐生ココ】あさココLIVEニュース！3月3日【#ココここ】][2020/03/03]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/03/03(火)</summary>
 <pre>
@@ -1939,7 +1939,7 @@
 <br>
 
 [2020/03/04]:https://www.youtube.com/watch?v=vhrg8pvmQiI&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=49
-### [![2020/03/04THUMBNAIL](https://i.ytimg.com/vi/vhrg8pvmQiI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAae_aCC56RzZsH0BOY3g8ZGYjTiw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！3月4日【#ココここ】][2020/03/04]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/03/04THUMBNAIL](https://i.ytimg.com/vi/vhrg8pvmQiI/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLAae_aCC56RzZsH0BOY3g8ZGYjTiw) 【#桐生ココ】あさココLIVEニュース！3月4日【#ココここ】][2020/03/04]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/03/04(水)</summary>
 <pre>
@@ -2021,7 +2021,7 @@
 <br>
 
 [2020/03/05]:https://www.youtube.com/watch?v=J0f4u4LElKs&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=50
-### [![2020/03/05THUMBNAIL](https://i.ytimg.com/vi/J0f4u4LElKs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBbCAByUQO0LYY5TTcaLMoRVWxBsQ){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！3月5日【#ココここ】][2020/03/05]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/03/05THUMBNAIL](https://i.ytimg.com/vi/J0f4u4LElKs/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBbCAByUQO0LYY5TTcaLMoRVWxBsQ) 【#桐生ココ】あさココLIVEニュース！3月5日【#ココここ】][2020/03/05]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/03/05(木)</summary>
 <pre>
@@ -2086,7 +2086,7 @@
 <br>
 
 [2020/03/06]:https://www.youtube.com/watch?v=v_gjU8RYt4g&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=51
-### [![2020/03/06THUMBNAIL](https://i.ytimg.com/vi/v_gjU8RYt4g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYlnRHAszXGaIB2FOkzBdrI0JYdg){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！3月6日【#ココここ】][2020/03/06]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/03/06THUMBNAIL](https://i.ytimg.com/vi/v_gjU8RYt4g/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLBYlnRHAszXGaIB2FOkzBdrI0JYdg) 【#桐生ココ】あさココLIVEニュース！3月6日【#ココここ】][2020/03/06]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/03/06(金)</summary>
 <pre>
@@ -2147,7 +2147,7 @@
 <br>
 
 [2020/03/09]:https://www.youtube.com/watch?v=4M-NXG7HMxU&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=52
-### [![2020/03/09THUMBNAIL](https://i.ytimg.com/vi/4M-NXG7HMxU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7i8YaP8k34YcOF1om3jO3Kh9DKw){:style="vertical-align: middle;"} 【#桐生ココ】あさココLIVEニュース！3月9日【#ココここ】][2020/03/09]{:target="_blank" rel="noreferrer noopener"}
+### [![2020/03/09THUMBNAIL](https://i.ytimg.com/vi/4M-NXG7HMxU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7i8YaP8k34YcOF1om3jO3Kh9DKw) 【#桐生ココ】あさココLIVEニュース！3月9日【#ココここ】][2020/03/09]{:target="_blank" rel="noreferrer noopener"}
 <details>
 <summary>2020/03/09(月)</summary>
 <pre>
