@@ -1,6 +1,3 @@
 theme: jekyll-theme-minimal
 title: kiryu-coco.github.io
 description: asacoco live news (unofficial digest)
-markdown: kramdown
-kramdown:
-  parse_block_html: true
