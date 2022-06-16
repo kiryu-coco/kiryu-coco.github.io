@@ -2223,7 +2223,7 @@
 	- (有識者A氏) そもそも「知能指数」では??
 		- (配信内テキスト「只今の知能数 IQ300」に対して)
 	- 結局バニメンしてしまう
-		- (バニメン＝Super Bunny Man)
+		- (バニメン＝Super Bunny Man, はあと氏が得意なゲーム)
 	- 13日(金)に30万人記念放送を予定
 		- (現在の登録者数 23.6万人)
 	- (有識者C氏(3500)) 誰かどうにかしろ
@@ -2242,12 +2242,12 @@
 	- (有識者C氏(3500)) YAGOO=谷郷(たにごう) 世界一無駄な知識
 - 【ガンギマリ速報】 (シャブココ常用 裏方A氏) 特定メンバーをひいきか！？
 	- (アキ・ローゼンタール氏) 配信中の闇営業がバレ、逮捕
-		- (アキロゼ氏のtweet)【悲報】闇営業が運営にバレる
-		- (発音警察によるCコ氏逮捕時のA氏のtweet)
-			- 今朝もあさココがウマい…
-			- 貰うものは貰ったので会長の保釈金は払っておきます！
-		- (アキロゼ氏逮捕時のA氏のtweet)
-			- ちゃんと面会には行きますので…(ぴえん)
+		- (アキロゼ氏tweet)【悲報】闇営業が運営にバレる
+	- (ココ氏逮捕時(発音警察による))
+		- (A氏tweet) 今朝もあさココがウマい…
+		- (A氏tweet) 貰うものは貰ったので会長の保釈金は払っておきます！
+	- (アキロゼ氏逮捕時)
+		- (A氏tweet) ちゃんと面会には行きますので…(ぴえん)
 - 【悲報】 (桐生Cコ氏(3500)) やっぱりガチ恋0人説
 	- (立て続けにおじさん出演にも関わらず)
 		- Vエコノミスト千莉氏
@@ -2255,7 +2255,7 @@
 		- "TheQuartering"氏
 		- 懲役太郎氏
 		- YAGOO
-	- 精神崩壊ガチ恋コメント0
+	- (エゴサしても) 精神崩壊ガチ恋コメント0
 		- 「俺のココと同じ画面に出るな！」
 	- (桐生Cコ氏(3500)) 自称ガチ恋おじさんちゃんと発狂して
 - ★本日の西成サーバー★
@@ -2268,6 +2268,81 @@
 	- 3/10 (March 10)、アメリカでマリオの日とされてるって本当？
 	- (マリオ)
 - 今日の西成サーバーのパスワード: gachikoi
+
+</pre>
+</details>
+<br>
+
+[2020/03/11]:https://www.youtube.com/watch?v=7mYY8Iqs4mU&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=54
+### [![2020/03/11THUMBNAIL](https://i.ytimg.com/vi/7mYY8Iqs4mU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA0A_AdlWHTfQaSoQkKfgC_X7KsrA) 【#桐生ココ】あさココLIVEニュース！3月11日【#ココここ】][2020/03/11]{:target="_blank" rel="noreferrer noopener"}
+<details>
+<summary>2020/03/11(水)要約</summary>
+<pre>
+- 【NEW】THANKS! 240,000subs! (チャンネル登録者24万人突破)
+- 【ガチこい】(桐生Cコ氏(3500)) げぼヤバおじさんに目を付けられる
+	- (昨日の配信のコメント)
+		- iasuru「いあする」
+		- I am a 75-year Mauritian man who is currently residing in Japan. After watching Asacoco, I've taken an interst in you. I am a
+		- successful chef that specializes in mushrooms and I make $1,244,500 annually. I am so in love with you that I am proposing a
+		- date with you. This is how it's going to go: First, I will prepare you an exquisite breakfast made from ingredients from the one
+		- and only Koshino's. We will eat breakfast in the very walls of my home. We will then proceed with our day at Kasuga Gorakujo
+		- where we will have many romantic arcade matches. At lunchtime, we will have a romantic dinner at Genji. We will then do
+		- sight-seeing around the area and held hands. I want to see the beautiful scenery of Nishinari. At dinner,I will take you home to
+		- my crib where we will play the Nintendo Switch. I promise I will be very delicate. Please respond.
+		- 一部を表示
+	- 「あさココキメ過ぎ」「ココ返事してやれ」「頭おかしい」「才能を感じる」
+	- (桐生Cコ氏(3500)) 求めていた発狂ガチ恋はこれではない
+		- (既報) 自称ガチ恋おじさんちゃんと発狂して (などと昨日確かに発言したが)
+- 【クソダサ速報】夏色まつり氏、BBA返しされる (BBA=ババア)
+	- 「40歳」(などとダンスレッスン配信でマリン船長をバカにし続けた まつり氏)
+	- 「54歳」(と診断される (「あなたの書く△で精神年齢を当てる」))
+	- (ココ氏実演)「100歳」
+- ころねの裏社会講座 (戌神ころね)
+	- 破門(はもん)：破門≒クビ
+	- (破門状)：顔写真がはいっていることもあるらしいぞ！
+	- 破門＜絶縁：人生終わりレベル
+- フレアとみんなで あいうえお ()
+	- む(っちゃ可愛いシオン先輩と)
+	- ら(イバルのあくあ先輩は)
+	- さ(いこうに仲が良いよね)
+	- き(っとARKでも一戦交えてくれる事でしょう)
+	- し(らんけど)
+	- お(胸が小さいよね)
+	- ん(゛ーーーーー)
+- 【クソザコ速報】(「畜生ひつじ」こと 角巻わため氏) あさココお天気コーナー担当
+	- ついにクソを描き始める
+	- (discordでの会話)
+		- (わため氏) 天気できた！
+		- (ココ氏) こら！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！！
+		- (わため氏) えっっっっ？！？！？！？ だめかな？！？！？！？
+		- (ココ氏) うんこやないかい！！！！！！！
+		- (わため氏) 正解！！！！！！！！
+		- (ココ氏) 天気ーーーーーーーーーーーーーーーーーーーーーーー！！！
+		- (わため氏) ｗｗｗｗｗｗ
+	- (わため氏) 「お絵かきコーナーだと思っていた」
+- 【クソザコ速報】(運営のおっさん) ARKパンデミックで運営のPC壊れる
+	- 複窓を繰り返したことにより故障
+	- (有識者C氏(3500)) 運営ならこれくらいやれ (100窓ぐらい)
+- 【緊急ARK速報】3/14(土)夜 Ragnarok最終ボス戦
+	- ★10窓配信予定★
+- 今日の天気 (お天気お姉さん: 角巻わため)
+	- ほか ほか
+	- (わため氏後で呼び出し)
+- 今日の西成のパスワード: gebochikushou
+- あさココ３分クッキング
+	- (放送事故: ココ氏(ドラゴンの姿)の絵)
+	- ブロッコリーとエビのマカロニサラダ
+		- エビ
+		- ブロッコリー
+		- マカロニ
+		- 塩
+		- トマト
+		- パセリ
+	- ((ざるを忘れたので)煮たブロッコリーとマカロニを皿に直接ぶちまけ)
+	- (煮たエビを皿に直接ぶちまけ)
+	- (切ったトマトを皿にぶちまけ)
+	- (パセリをかける、バジルをかける)
+	- (おいしそう！)
 
 </pre>
 </details>
