@@ -1842,10 +1842,10 @@
 
 [2020/03/09]:https://www.youtube.com/watch?v=4M-NXG7HMxU&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=52
 - [![2020/03/09(月)サムネ](https://i.ytimg.com/vi/4M-NXG7HMxU/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLC7i8YaP8k34YcOF1om3jO3Kh9DKw)][2020/03/09]{:target="_blank"}
+- 2020/03/09(月) [【#桐生ココ】あさココLIVEニュース！3月9日【#ココここ】][2020/03/09]{:target="_blank"}
 <details>
 <summary>2020/03/09(月)</summary>
-
-- 2020/03/09(月) [【#桐生ココ】あさココLIVEニュース！3月9日【#ココここ】][2020/03/09]{:target="_blank"}
+<pre>
 	- 【NEW】 (さくらみこ氏) 毎週土日6時～あさみこNEWS配信決定！
 		- #あさみこリーク でガセネタ募集！
 		- (みこ氏) 「朝を担当している後輩2人から脅された」(と主張)
@@ -1886,7 +1886,7 @@
 		- げぼかわLunaたん
 	- (放送事故: ブラックアウト)
 		- (最後のこの奴書くの忘れたよねー)
-
+</pre>
 </details>
 
 <!--
