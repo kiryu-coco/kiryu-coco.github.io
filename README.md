@@ -1,3 +1,4 @@
+{:t: target="_blank" rel="nofollow noreferrer noopener"}
 # [Coco Ch. 桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w){:t: target="_blank" rel="nofollow noreferrer noopener"}
 ## あさココLIVEニュース！ (Unofficial Digest) 
 ### [(github)](https://github.com/kiryu-coco/kiryu-coco.github.io){: t} [(github pages)](https://kiryu-coco.github.io){:target="_blank" rel="noreferrer noopener"}
