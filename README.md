@@ -1,6 +1,6 @@
-# [Coco Ch. 桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w){:t: target="_blank" rel="noreferrer noopener"}
+# [Coco Ch. 桐生ココ](https://www.youtube.com/channel/UCS9uQI-jC3DE0L4IpXyvr6w){:t: target="_blank" rel="nofollow noreferrer noopener"}
 ## あさココLIVEニュース！ (Unofficial Digest) 
-### [(github)](https://github.com/kiryu-coco/kiryu-coco.github.io){:t} [(github pages)](https://kiryu-coco.github.io){:target="_blank" rel="noreferrer noopener"}
+### [(github)](https://github.com/kiryu-coco/kiryu-coco.github.io){: t} [(github pages)](https://kiryu-coco.github.io){:target="_blank" rel="noreferrer noopener"}
 [2019/12/29]:https://www.youtube.com/watch?v=6Y8cEnbk1I4&list=PLw58RgSzDmjr7hbo0zrfaQ027uMc6WHfO&index=1
 ### [![2019/12/29THUMBNAIL](https://i.ytimg.com/vi/6Y8cEnbk1I4/hqdefault.jpg?sqp=-oaymwEbCKgBEF5IVfKriqkDDggBFQAAiEIYAXABwAEG&rs=AOn4CLA1rMVZnhj9V7sltSXBV4TuDBCFcg) 【#桐生ココ】あさココライブNEWS初回放送12/29【ホロライブ4代目会長】][2019/12/29]{:target="_blank" rel="noreferrer noopener"}
 <details>
